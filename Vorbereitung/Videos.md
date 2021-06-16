@@ -1,0 +1,66 @@
+# Videos zur Vorbereitung
+Die hier verlinkten Videos dienen der Vorbereitung auf das Praktikum. Wenn keine Sprungmarken angegeben sind, ist das Video in seiner Gänze relevant.
+
+Einige Videos sind explizit für diesen Kurs entstanden und beschreiben Beispielhaft die nötigen Arbeitsschritte um die vorbereitenden Aufgaben für das Praktikum durchzuführen. Sie sollen keine Musterlösung geben und erklären lediglich die wichtigsten Mechanismen und Vorgehensweisen. Je nach persönlichem Vorwissen in den verschiedenen Bereichen, kann es möglich sein einzelne Abschnitte zu überspringen. Es kann außerdem nötig sein, sich bestimmtes Vorwissen erst aneignen zu müssen.
+
+Grundsätzlich sind zum Verständnis der Videos folgende Fähigkeiten vorausgesetzt:
+* Grundlegende Kenntnisse in Windows 10 und der Eingabeaufforderung
+* Grundlegendes Verständnis von XML-Dateien
+* Grundlegendes Verständnis von Programmlogik und Skriptabläufen
+* Sicherer Umgang mit EDV im Allgemeinen
+
+Nicht notwendig aber von Vorteil sind folgende Fähigkeiten:
+* Erfahrung im Umgang mit Node-RED
+* Erfahrung im Umgang mit Docker Containern, insbesondere der Software Docker Desktop
+* Erfahrung im Umgang mit Grafana und InfluxDB als data source
+* Kenntnisse in JavaScript und NodeJS
+
+Außerdem wird folgende Softwareausstattung vorausgesetzt:
+* Windows 10 Betriebssystem
+  * Viele Aspekte der Vorbereitung funktionieren auch unter MacOS oder Linux, bestimmte Schritte sind allerdings nur auf Windows 10 möglich
+  * Die Erklärungen beziehen sich auf Windows 10, auf weitere Betriebssysteme wird nicht eingegangen
+* [Docker Desktop](https://www.docker.com/products/docker-desktop)
+* [NodeJS LTS](https://nodejs.org/en/)
+* [Unified Automation UaModeler](https://www.unified-automation.com/de/downloads/opc-ua-development.html)
+  * Registrierung notwendig
+* [Unified Automation UaExpert](https://www.unified-automation.com/de/downloads/opc-ua-clients.html)
+  * Registrierung notwendig
+* Verschiedene Docker Container deren Installation und Konfiguration in der jeweiligen `.md` Datei erläutert wird. Diese sind:
+  * [BaSyx AAS Server](Installation/BaSyx.md)
+  * [Grafana](Installation/Grafana.md)
+  * [InfluxDB](Installation/InfluxDB.md)
+  * [Node-RED](Installation/node-RED.md)
+* Verschiedene weitere Software deren Installation und Konfiguration in der jeweiligen `.md` Datei erläutert wird. Diese sind:
+  * [node-opcua](Installation/node-opcua.md)
+  * [opcua-logger](Installation/opcua-logger.md)
+  * [AASX Package Explorer](Installation/BaSyx.md)
+
+## Begleitende Videos für die vorbereitenden Aufgaben
+Die folgenden Videos bauen aufeinander auf und sollten während der Bearbeitung der vorbereitenden Aufgaben in der entsprechenden Reihenfolge angeschaut werden.
+
+:information_source: Momentan liegen die (meisten) Videos in eurem ILIAS Ordner, in Zukunft werden diese auf YouTube zu finden sein. Alle Links in diesem Abschnitt, außer der auf das Video des Fraunhofer IESE, führen aktuell noch auf den YouTube-Kanal von Prof. Dr. Jochen Müller.
+
+* E1: [Node-RED - JavaScript Objekt aus XML Datei erzeugen](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+* E2: Fraunhofer IESE: [Getting started with Eclipse BaSyx: Easy AAS setup with off-the-shelf components](https://www.youtube.com/watch?v=nGRNg0sj1oY)
+  * Die Hinweise in der [BaSyx.md](Installation/BaSyx.md) sind zu beachten.
+  * Nicht explizit für diesen Kurs entstanden
+* E3: [Node-RED - BaSyx AAS Server per REST API mit Daten befüllen](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+* E4: [OPC UA - node-opcua Server erstellen und erkunden](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+* E5: [OPC UA - Informationsmodell in UaModeler erstellen und exportieren](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+* E6: [OPC UA - node-opcua Server per REST API mit Daten aus BaSyx AAS Server befüllen](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+* E7: [OPC UA - opcua-logger für Upload in InfluxDB einrichten](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+* E8: [Grafana - InfluxDB als data source einrichten und Daten erkunden](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+* E9: [Grafana - Dashboard erstellen und mit Daten der InfluxDB anreichern](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+* E10: [Grafana - Dynamische Panels und Dashboards auf Grundlage von Variablen erstellen](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+
+## Weitere Videos
+Die folgenden Videos wurden nicht explizit für diesen Kurs ausgelegt. Die Informationen sind jedoch durchgehend interessant und vertiefen das Verständnis der Materie. Es wird wärmstens Empfohlen alle verlinkten Videos eingehend zu studieren.
+* Fraunhofer IESE: [Getting started with Eclipse BaSyx: Setting up a running example in 15 minutes from scratch](https://www.youtube.com/watch?v=rRol5EVZHZA)
+  * Dieses Video ist nicht notwendig für das Praktikum oder die Vorbereitung, bietet jedoch wertvolle Hintergrundinformationen zu dem verwendeten BaSyx SDK und sollte von allen Interessierten geschaut werden.
+* ACC Automation: [Node-RED Modbus RTU / TCP Communication](https://www.youtube.com/watch?v=yX1w5vcV6cc)
+  * Dieses Video dient der Vorbereitung auf das Praktikum.
+  * Die ersten neun Minuten des Videos erklären die Installation und Verwendung von Modbus Nodes.
+  * Ab Minute neun ist das Video nichtmehr relevant für unser Projekt. Interessierte können dem interessanten Video natürlich bis zum Ende folgen.
+  * Wichtige Sprungmarken:
+    * [Installing node-red-contrib-modbus Palette](https://www.youtube.com/watch?v=yX1w5vcV6cc&t=126s)
+    * [Node-RED Modbus Flow Program](https://www.youtube.com/watch?v=yX1w5vcV6cc&t=245s)
