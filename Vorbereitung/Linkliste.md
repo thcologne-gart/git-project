@@ -1,5 +1,5 @@
 # Linkliste
-Hier findet ihr Links zu Seiten oder Videos, die euch beim Erwerb der nötigen Grundlagen oder der Erweiterung eurer Kompetenzen über das Praktikum oder die Vorbereitung hinaus helfen können.
+Hier findet ihr Links zu Seiten und Videos, die euch beim Erwerb der nötigen Grundlagen oder der Erweiterung eurer Kompetenzen über das Projekt hinaus helfen können.
 
 ## Kompetenzerwerb 
 * [AAS Screencasts](https://admin-shell-io.com/screencasts/) stellt Screencasts für den AASX Package Explorer und weitere AAS-bezogene Themen zur Verfügung
@@ -18,7 +18,7 @@ Hier findet ihr Links zu Seiten oder Videos, die euch beim Erwerb der nötigen G
 * [How to use Windows 10's Command Prompt](https://www.youtube.com/watch?v=AF2q81CxYFI)[en] gibt eine gute Einführung in die Eingabeaufforderung in Windows 10
   * Wer noch nie mit der Eingabeaufforderung in Windows 10 gearbeitet hat, ist hier richtig
   * Ab Minute 2:25 spricht die Präsentatorin davon, dass die Eingabeaufforderung durch die Powershell ersetzt wird. Dies ist nicht korrekt! Powershell und Eingabeaufforderung existieren auch noch nach dem Creators Update nebeneinander. Ihr müsst die Eingabeaufforderung also nicht erst aktivieren.
-  * Die vorgestellten Kommandos sind nicht unbedingt erforderlich für dieses Praktikum, die Grundsätzliche Bedienung ist allerdings gleich
+  * Die vorgestellten Kommandos sind nicht unbedingt erforderlich für dieses Projekt, die Grundsätzliche Bedienung ist allerdings gleich
 * [Get started with InfluxDB](https://docs.influxdata.com/influxdb/v2.0/get-started/)[en] kann als Einstieg in InfluxDB genutzt werden
   * Innerhalb der InfluxDB Dokumentation finden sich viele Tutorials für jegliche Anwendungen
   * Die Dokumentation von InfluxDB wird sowohl von Anfängern als auch Profis genutzt
@@ -67,5 +67,5 @@ Hier findet ihr Links zu Seiten oder Videos, die euch beim Erwerb der nötigen G
 * [node-opcua](https://node-opcua.github.io/)
 * [Node-RED](https://nodered.org/)
 * [opcua-logger](https://github.com/coussej/node-opcua-logger)
-  * In der Vorbereitung und dem Praktikum nutzen wir eine leicht modifizierte Version des [opcua-loggers (modifiziert)](https://github.com/Eichi87/node-opcua-logger)
+  * In diesem Projekt nutzen wir eine leicht modifizierte Version des [opcua-loggers (modifiziert)](https://github.com/Eichi87/node-opcua-logger)
 * [Unified Automation](https://www.unified-automation.com/)

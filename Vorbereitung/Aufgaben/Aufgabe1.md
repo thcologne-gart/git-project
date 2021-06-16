@@ -31,7 +31,7 @@ In dieser Aufgabe werdet ihr einen AAS Server via REST-API aus Node-RED mit Date
   * node-red-contrib-modbus ist [hier](https://flows.nodered.org/node/node-red-contrib-modbus) verfügbar. Es wird entweder über das Node-RED CLI via `npm install node-red-contrib-modbus` oder über das [Node-RED UI](https://nodered.org/docs/user-guide/runtime/adding-nodes) hinzugefügt.
 
 ## Hinweise
-* Im Praktikum wird das Informationsmodell vorgegeben.
+* Für die Projektarbeit im Labor wird das Informationsmodell vorgegeben.
 * Tauscht euch untereinander aus!
 * Im Rahmen der Aufgabe bietet es sich an, verschiedene Methoden und Herangehensweisen zu testen und grundsätzlich mit Node-RED sowie den Daten *zu spielen*.
 

@@ -1,7 +1,7 @@
 # Videos zur Vorbereitung
-Die hier verlinkten Videos dienen der Vorbereitung auf das Praktikum. Wenn keine Sprungmarken angegeben sind, ist das Video in seiner Gänze relevant.
+Die hier verlinkten Videos dienen der Vorbereitung. Wenn keine Sprungmarken angegeben sind, ist das Video in seiner Gänze relevant.
 
-Einige Videos sind explizit für diesen Kurs entstanden und beschreiben Beispielhaft die nötigen Arbeitsschritte um die vorbereitenden Aufgaben für das Praktikum durchzuführen. Sie sollen keine Musterlösung geben und erklären lediglich die wichtigsten Mechanismen und Vorgehensweisen. Je nach persönlichem Vorwissen in den verschiedenen Bereichen, kann es möglich sein einzelne Abschnitte zu überspringen. Es kann außerdem nötig sein, sich bestimmtes Vorwissen erst aneignen zu müssen.
+Einige Videos sind explizit für diesen Kurs entstanden und beschreiben Beispielhaft die nötigen Arbeitsschritte um die vorbereitenden Aufgaben durchzuführen. Sie sollen keine Musterlösung geben und erklären lediglich die wichtigsten Mechanismen und Vorgehensweisen. Je nach persönlichem Vorwissen in den verschiedenen Bereichen, kann es möglich sein einzelne Abschnitte zu überspringen. Es kann außerdem nötig sein, sich bestimmtes Vorwissen erst aneignen zu müssen.
 
 Grundsätzlich sind zum Verständnis der Videos folgende Fähigkeiten vorausgesetzt:
 * Grundlegende Kenntnisse in Windows 10 und der Eingabeaufforderung
@@ -56,9 +56,8 @@ Die folgenden Videos bauen aufeinander auf und sollten während der Bearbeitung 
 ## Weitere Videos
 Die folgenden Videos wurden nicht explizit für diesen Kurs ausgelegt. Die Informationen sind jedoch durchgehend interessant und vertiefen das Verständnis der Materie. Es wird wärmstens Empfohlen alle verlinkten Videos eingehend zu studieren.
 * Fraunhofer IESE: [Getting started with Eclipse BaSyx: Setting up a running example in 15 minutes from scratch](https://www.youtube.com/watch?v=rRol5EVZHZA)
-  * Dieses Video ist nicht notwendig für das Praktikum oder die Vorbereitung, bietet jedoch wertvolle Hintergrundinformationen zu dem verwendeten BaSyx SDK und sollte von allen Interessierten geschaut werden.
+  * Dieses Video ist nicht notwendig für das Projekt, bietet jedoch wertvolle Hintergrundinformationen zu dem verwendeten BaSyx SDK und sollte von allen Interessierten geschaut werden.
 * ACC Automation: [Node-RED Modbus RTU / TCP Communication](https://www.youtube.com/watch?v=yX1w5vcV6cc)
-  * Dieses Video dient der Vorbereitung auf das Praktikum.
   * Die ersten neun Minuten des Videos erklären die Installation und Verwendung von Modbus Nodes.
   * Ab Minute neun ist das Video nichtmehr relevant für unser Projekt. Interessierte können dem interessanten Video natürlich bis zum Ende folgen.
   * Wichtige Sprungmarken:

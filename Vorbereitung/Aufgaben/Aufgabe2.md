@@ -26,7 +26,7 @@ In dieser Aufgabe werdet ihr einen OPC UA Server auf Grundlage von node-opcua er
 * Überlege dir eine Möglichkeit, Daten aus dem OPC UA Server auf den AAS Server zu schreiben und implementiere diese als schreibbare Variable.
 
 ## Hinweise
-* Im Praktikum wird das Informationsmodell vorgegeben.
+* Für die Projektarbeit im Labor wird das Informationsmodell vorgegeben.
 * Tauscht euch untereinander aus!
 * Im Rahmen der Aufgabe bietet es sich an, verschiedene Methoden und Herangehensweisen zu testen und grundsätzlich mit node-opcua sowie den Daten *zu spielen*.
 
