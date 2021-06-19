@@ -31,7 +31,7 @@ Außerdem wird folgende Softwareausstattung vorausgesetzt:
   * [InfluxDB](Installation/InfluxDB.md)
   * [Node-RED](Installation/node-RED.md)
 * Verschiedene weitere Software deren Installation und Konfiguration in der jeweiligen `.md` Datei erläutert wird. Diese sind:
-  * [node-opcua](Installation/node-opcua.md)
+  * [NodeOPCUA](Installation/node-opcua.md)
   * [opcua-logger](Installation/opcua-logger.md)
   * [AASX Package Explorer](Installation/BaSyx.md)
 
@@ -45,9 +45,9 @@ Die folgenden Videos bauen aufeinander auf und sollten während der Bearbeitung 
   * Die Hinweise in der [BaSyx.md](Installation/BaSyx.md) sind zu beachten.
   * Nicht explizit für diesen Kurs entstanden
 * E3: [Node-RED - BaSyx AAS Server per REST API mit Daten befüllen](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
-* E4: [OPC UA - node-opcua Server erstellen und erkunden](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+* E4: [OPC UA - NodeOPCUA Server erstellen und erkunden](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
 * E5: [OPC UA - Informationsmodell in UaModeler erstellen und exportieren](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
-* E6: [OPC UA - node-opcua Server per REST API mit Daten aus BaSyx AAS Server befüllen](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+* E6: [OPC UA - NodeOPCUA Server per REST API mit Daten aus BaSyx AAS Server befüllen](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
 * E7: [OPC UA - opcua-logger für Upload in InfluxDB einrichten](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
 * E8: [Grafana - InfluxDB als data source einrichten und Daten erkunden](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
 * E9: [Grafana - Dashboard erstellen und mit Daten der InfluxDB anreichern](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
