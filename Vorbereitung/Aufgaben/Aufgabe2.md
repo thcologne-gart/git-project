@@ -7,7 +7,7 @@ In dieser Aufgabe werdet ihr einen OPC UA Server auf Grundlage von NodeOPCUA ers
 * [UaExpert](https://www.unified-automation.com/de/produkte/entwicklerwerkzeuge/uaexpert.html) und [UaModeler](https://www.unified-automation.com/de/produkte/entwicklerwerkzeuge/uamodeler.html) werden benötigt
   * Für beide Programme ist eine kostenlose Registrierung bei Unified Automation notwendig
 * Die XML-Dateien bestimmter OPC UA Modelle werden benötigt:
-  * [GitHub der PÜC Foundation](https://github.com/OPCFoundation/UA-Nodeset)
+  * [GitHub der OPC Foundation](https://github.com/OPCFoundation/UA-Nodeset)
   * [Beispielhaftes Pumpenmodell](../Dateien/UaModeler/Opc.Ua.Pumps.NodeSet2.xml)
 * Grundsätzlich ist die [Videos.md](../Videos.md) Datei zu beachten
 * Folgende Videos stehen in direktem Zusammenhang mit der Aufgabe:
