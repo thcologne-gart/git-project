@@ -37,7 +37,7 @@ Außerdem wird folgende Softwareausstattung vorausgesetzt:
 
 ## Begleitende Videos für die vorbereitenden Aufgaben
 Die folgenden Videos bauen aufeinander auf und sollten während der Bearbeitung der vorbereitenden Aufgaben in der entsprechenden Reihenfolge angeschaut werden.
-* [Playlist](https://www.youtube.com/watch?v=Lc5fmeFqGl4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy)
+* [Playlist mit allen Videos](https://www.youtube.com/watch?v=Lc5fmeFqGl4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy)
 * E1: [Node-RED - JavaScript Objekt aus XML Datei erzeugen](https://www.youtube.com/watch?v=Lc5fmeFqGl4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=1)
 * E2: Fraunhofer IESE: [Getting started with Eclipse BaSyx: Easy AAS setup with off-the-shelf components](https://www.youtube.com/watch?v=nGRNg0sj1oY)
   * Die Hinweise in der [BaSyx.md](Installation/BaSyx.md) sind zu beachten.
