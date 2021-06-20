@@ -18,7 +18,8 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration des BaSyx
 :information_source: Notiert euch alle wichtigen Daten, insbesondere Zugangsdaten und Datenbanknamen.
 
 ### Ergänzende Hinweise zu dem Video
-* Der aasx-package-explorer bei [1 Minuten 17 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY#t=1m17s) kann [hier](https://github.com/admin-shell-io/aasx-package-explorer) heruntergeladen werden
+* Das GitHub Repository zu dem aas-package-explorer bei [1 Minuten 17 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY#t=1m17s) befindet sich [hier](https://github.com/admin-shell-io/aasx-package-explorer)
+  * Windows 10 binaries können unter dem Abschnitt [Releases](https://github.com/admin-shell-io/aasx-package-explorer/releases) heruntergeladen werden
   * Die erstellte AAS sollte anhand der Daten der fiktiven Pumpe in diesem Repository erstellt werden
 * Die erste Eingabe bei [3 Minuten 38 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY#t=3m38s) kann ausgelassen werden
   * Alternativ kann die Eingabe durch `docker run --name aas-server -p 4001:4001 eclipsebasyx/aas-server:1.0.0` ersetzt werden
