@@ -11,10 +11,9 @@ In dieser Aufgabe werdet ihr einen AAS Server via REST-API aus Node-RED mit Date
 * [AASX Package Explorer Screencasts](https://admin-shell-io.com/screencasts/) 
 * Grundsätzlich ist die [Videos.md](../Videos.md) Datei zu beachten
 * Folgende Videos stehen in direktem Zusammenhang mit der Aufgabe:
-  * :information_source: E1 und E3 sind *noch* nicht auf YouTube verfügbar, stehen euch jedoch auf eurer Lernplattform zur Verfügung
-  * E1: [Node-RED - JavaScript Objekt aus XML Datei erzeugen](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+  * E1: [Node-RED - JavaScript Objekt aus XML Datei erzeugen](https://www.youtube.com/watch?v=Lc5fmeFqGl4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=1)
   * E2: Fraunhofer IESE: [Getting started with Eclipse BaSyx: Easy AAS setup with off-the-shelf components](https://www.youtube.com/watch?v=nGRNg0sj1oY)
-  * E3: [Node-RED - BaSyx AAS Server per REST API mit Daten befüllen](https://www.youtube.com/channel/UC_sTSOiieIi2wCffZvL6D6A)
+  * E3: [Node-RED - BaSyx AAS Server per REST API mit Daten befüllen](https://www.youtube.com/watch?v=bhNZlhZ4J8s&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=2)
   
 ## Aufgabenstellung
 * Richte anhand der bereitgestellten Daten einen AAS Server für die *Master Pump 420* ein.
