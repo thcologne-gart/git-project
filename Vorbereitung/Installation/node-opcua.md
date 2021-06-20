@@ -20,6 +20,5 @@ Dieses Dokument dient als Anleitung zur Installation von NodeOPCUA auf Windows 1
   * Was konkret eingegeben wird hat auf das Beispiel keinen Einfluss
 * `npm install node-opcua --unsafe-perms` ausführen und Fertigstellung abwarten
 * `npm i axios` ausführen und Fertigstellung abwarten
-* `model` Ordner aus diesem Repository kopieren und in `<local-folder>` einfügen
   
 Damit ist die Installation von NodeOPCUA abgeschlossen.
