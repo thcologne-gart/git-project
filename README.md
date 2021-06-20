@@ -1,5 +1,5 @@
 # Willkommen
-Willkommen zum GitHub Repository des Gebäude-Informationstechnik Projekts des Masters Gebäudeautomation. Hier findet ihr alle Informationen zu vorbereitung und Projektarbeit. Zugangsdaten und Ähnliches werden nur auf eurer Lernplattform bereitgestellt.
+Willkommen zum GitHub Repository des Gebäudeinformationstechnik Projekts des Masters Gebäudeautomation. Hier findet ihr alle Informationen zu vorbereitung und Projektarbeit. Zugangsdaten und Ähnliches werden nur auf eurer Lernplattform bereitgestellt.
 
 :information_source: Nutzt den Issues Abschnitt um Fragen zu stellen, Fehler zu melden oder euch untereinander auszutauschen. Nutzt bitte die Suchfunktion, um zu Prüfen ob eure Frage oder das Problem bereits gepostet wurde.
 
