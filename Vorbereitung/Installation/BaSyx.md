@@ -18,17 +18,17 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration des BaSyx
 :information_source: Notiert euch alle wichtigen Daten, insbesondere Zugangsdaten und Datenbanknamen.
 
 ### Ergänzende Hinweise zu dem Video
-* Das GitHub Repository zu dem aas-package-explorer bei [1 Minuten 17 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY#t=1m17s) befindet sich [hier](https://github.com/admin-shell-io/aasx-package-explorer)
+* Das GitHub Repository zu dem aas-package-explorer bei [1 Minuten 17 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&t=1m17s) befindet sich [hier](https://github.com/admin-shell-io/aasx-package-explorer)
   * Windows 10 binaries können unter dem Abschnitt [Releases](https://github.com/admin-shell-io/aasx-package-explorer/releases) heruntergeladen werden
   * Innerhalb der `.zip`  Datei befindet sich die `AasxPackageExplorer.exe`
   * Die erstellte AAS sollte anhand der Daten der fiktiven Pumpe in diesem Repository erstellt werden
-* Die erste Eingabe bei [3 Minuten 38 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY#t=3m38s) kann ausgelassen werden
+* Die erste Eingabe bei [3 Minuten 38 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&t=3m38s) kann ausgelassen werden
   * Alternativ kann die Eingabe durch `docker run --name aas-server -p 4001:4001 eclipsebasyx/aas-server:1.0.0` ersetzt werden
   * Hier wird der Server ohne Parameter gestartet, dies ist nicht notwendig
-* Die aas.properties Datei bei [4 Minuten 10 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY#t=4m10s) kann aus [diesem GitHub Repository](../Dateien/BaSyx) heruntergeladen werden
+* Die aas.properties Datei bei [4 Minuten 10 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&t=4m10s) kann aus [diesem GitHub Repository](../Dateien/BaSyx) heruntergeladen werden
 * Zusätzlich zu der aas.properties Datei soll die context.properties Datei ebenfalls heruntergeladen und in den gleichen Ordner geschoben werden
   * Die context.properties Datei erlaubt das Setzen bestimmter Host-Daten wie ContextPath, IP oder Port
-* Statt der Eingabe bei [5 Minuten 16 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY#t=5m16s) muss `docker run --name aas-server -p 4001:4001 -v <local-folder>:/usr/share/config eclipsebasyx/aas-server:1.0.0` ausgeführt werden
+* Statt der Eingabe bei [5 Minuten 16 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&t=5m16s) muss `docker run --name aas-server -p 4001:4001 -v <local-folder>:/usr/share/config eclipsebasyx/aas-server:1.0.0` ausgeführt werden
 
   
 Damit sind Installation und Konfiguration des BaSyx AAS Servers abgeschlossen.

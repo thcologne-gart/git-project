@@ -8,9 +8,9 @@ In dieser Aufgabe werdet ihr ausgewählte Daten eines OPC UA Servers in eine Dat
 * Grafana muss [installiert](../Installation/Grafana.md) sein
 * Grundsätzlich ist die [Videos.md](../Videos.md) Datei zu beachten
 * Folgende Videos stehen in direktem Zusammenhang mit der Aufgabe:
-  * E7: [OPC UA - opcua-logger für Upload in InfluxDB einrichten](https://www.youtube.com/watch?v=97MCgv7MS5I&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=6)
-  * E8: [Grafana - InfluxDB als data source einrichten und Daten erkunden](https://www.youtube.com/watch?v=kok8IHcI93k&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=7)
-  * E9: [Grafana - Dashboard erstellen und mit Daten der InfluxDB anreichern](https://www.youtube.com/watch?v=al9quHfWBqI&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=8)
+  * E7: [OPC UA - opcua-logger für Upload in InfluxDB einrichten](https://www.youtube.com/watch?v=97MCgv7MS5I&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=8)
+  * E8: [Grafana - InfluxDB als data source einrichten und Daten erkunden](https://www.youtube.com/watch?v=kok8IHcI93k&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=9)
+  * E9: [Grafana - Dashboard erstellen und mit Daten der InfluxDB anreichern](https://www.youtube.com/watch?v=al9quHfWBqI&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=10)
   
 ## Aufgabenstellung
 * Lade die Daten des *Master Pump 420* OPC UA Servers via opcua-logger in die InfluxDB.

@@ -8,7 +8,7 @@ In dieser Aufgabe werdet ihr mehrere Assets in einem dynamischen Dashboard abbil
 * Grafana muss [installiert](../Installation/Grafana.md) sein
 * Grundsätzlich ist die [Videos.md](../Videos.md) Datei zu beachten
 * Folgende Videos stehen in direktem Zusammenhang mit der Aufgabe:
-  * E10: [Grafana - Dynamische Panels und Dashboards auf Grundlage von Variablen erstellen](https://www.youtube.com/watch?v=biAnjcLIkxc&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=9)
+  * E10: [Grafana - Dynamische Panels und Dashboards auf Grundlage von Variablen erstellen](https://www.youtube.com/watch?v=biAnjcLIkxc&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=11)
   
 ## Aufgabenstellung
 * Erstelle eine zweite Asset Instanz und lade die Daten analog der ersten Instanz in die InfluxDB.

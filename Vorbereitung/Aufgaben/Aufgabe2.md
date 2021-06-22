@@ -11,9 +11,9 @@ In dieser Aufgabe werdet ihr einen OPC UA Server auf Grundlage von NodeOPCUA ers
   * [Beispielhaftes Pumpenmodell](../Dateien/UaModeler/Opc.Ua.Pumps.NodeSet2.xml)
 * Grundsätzlich ist die [Videos.md](../Videos.md) Datei zu beachten
 * Folgende Videos stehen in direktem Zusammenhang mit der Aufgabe:
-  * E4: [OPC UA - NodeOPCUA Server erstellen und erkunden](https://www.youtube.com/watch?v=5lWk-aKc0uw&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=3)
-  * E5: [OPC UA - Informationsmodell in UaModeler erstellen und exportieren](https://www.youtube.com/watch?v=CrCrjT1zP1s&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=4)
-  * E6: [OPC UA - NodeOPCUA Server per REST API mit Daten aus BaSyx AAS Server befüllen](https://www.youtube.com/watch?v=DVMfyJXxlR4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=5)
+  * E4: [OPC UA - NodeOPCUA Server erstellen und erkunden](https://www.youtube.com/watch?v=5lWk-aKc0uw&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=5)
+  * E5: [OPC UA - Informationsmodell in UaModeler erstellen und exportieren](https://www.youtube.com/watch?v=CrCrjT1zP1s&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=6)
+  * E6: [OPC UA - NodeOPCUA Server per REST API mit Daten aus BaSyx AAS Server befüllen](https://www.youtube.com/watch?v=DVMfyJXxlR4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=7)
   
 ## Aufgabenstellung
 * Erstelle anhand der bereitgestellten Daten und auf Grundlage einiger OPC UA Modelle ein OPC UA Informationsmodell für die *Master Pump 420*. Folgende Modelle sind als Grundlage zu nutzen:
