@@ -38,18 +38,18 @@ Außerdem wird folgende Softwareausstattung vorausgesetzt:
 ## Begleitende Videos für die vorbereitenden Aufgaben
 Die folgenden Videos bauen aufeinander auf und sollten während der Bearbeitung der vorbereitenden Aufgaben in der entsprechenden Reihenfolge angeschaut werden.
 * [Playlist mit allen Videos](https://www.youtube.com/watch?v=Lc5fmeFqGl4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy)
-* E1: [Node-RED - JavaScript Objekt aus XML Datei erzeugen](https://www.youtube.com/watch?v=Lc5fmeFqGl4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=1)
-* E2: Fraunhofer IESE: [Getting started with Eclipse BaSyx: Easy AAS setup with off-the-shelf components](https://www.youtube.com/watch?v=nGRNg0sj1oY)
+* E1: [Node-RED - JavaScript Objekt aus XML Datei erzeugen](https://www.youtube.com/watch?v=Lc5fmeFqGl4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=2)
+* E2: Fraunhofer IESE: [Getting started with Eclipse BaSyx: Easy AAS setup with off-the-shelf components](https://www.youtube.com/watch?v=nGRNg0sj1oY&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=3)
   * Die Hinweise in der [BaSyx.md](Installation/BaSyx.md) sind zu beachten.
   * Nicht explizit für diesen Kurs entstanden
-* E3: [Node-RED - BaSyx AAS Server per REST API mit Daten befüllen](https://www.youtube.com/watch?v=bhNZlhZ4J8s&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=2)
-* E4: [OPC UA - NodeOPCUA Server erstellen und erkunden](https://www.youtube.com/watch?v=5lWk-aKc0uw&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=3)
-* E5: [OPC UA - Informationsmodell in UaModeler erstellen und exportieren](https://www.youtube.com/watch?v=CrCrjT1zP1s&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=4)
-* E6: [OPC UA - NodeOPCUA Server per REST API mit Daten aus BaSyx AAS Server befüllen](https://www.youtube.com/watch?v=DVMfyJXxlR4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=5)
-* E7: [OPC UA - opcua-logger für Upload in InfluxDB einrichten](https://www.youtube.com/watch?v=97MCgv7MS5I&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=6)
-* E8: [Grafana - InfluxDB als data source einrichten und Daten erkunden](https://www.youtube.com/watch?v=kok8IHcI93k&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=7)
-* E9: [Grafana - Dashboard erstellen und mit Daten der InfluxDB anreichern](https://www.youtube.com/watch?v=al9quHfWBqI&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=8)
-* E10: [Grafana - Dynamische Panels und Dashboards auf Grundlage von Variablen erstellen](https://www.youtube.com/watch?v=biAnjcLIkxc&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=9)
+* E3: [Node-RED - BaSyx AAS Server per REST API mit Daten befüllen](https://www.youtube.com/watch?v=bhNZlhZ4J8s&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=4)
+* E4: [OPC UA - NodeOPCUA Server erstellen und erkunden](https://www.youtube.com/watch?v=5lWk-aKc0uw&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=5)
+* E5: [OPC UA - Informationsmodell in UaModeler erstellen und exportieren](https://www.youtube.com/watch?v=CrCrjT1zP1s&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=6)
+* E6: [OPC UA - NodeOPCUA Server per REST API mit Daten aus BaSyx AAS Server befüllen](https://www.youtube.com/watch?v=DVMfyJXxlR4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=7)
+* E7: [OPC UA - opcua-logger für Upload in InfluxDB einrichten](https://www.youtube.com/watch?v=97MCgv7MS5I&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=8)
+* E8: [Grafana - InfluxDB als data source einrichten und Daten erkunden](https://www.youtube.com/watch?v=kok8IHcI93k&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=9)
+* E9: [Grafana - Dashboard erstellen und mit Daten der InfluxDB anreichern](https://www.youtube.com/watch?v=al9quHfWBqI&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=10)
+* E10: [Grafana - Dynamische Panels und Dashboards auf Grundlage von Variablen erstellen](https://www.youtube.com/watch?v=biAnjcLIkxc&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=11)
 
 ## Weitere Videos
 Die folgenden Videos wurden nicht explizit für diesen Kurs ausgelegt. Die Informationen sind jedoch durchgehend interessant und vertiefen das Verständnis der Materie. Es wird wärmstens Empfohlen alle verlinkten Videos eingehend zu studieren.
