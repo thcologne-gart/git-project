@@ -9,7 +9,7 @@ In diesem Abschnitt des Repositorys findet ihr alle Informationen die zur Vorber
 * [Videos.md](Videos.md) enthält wichtige Informationen zu den begleitenden Erklärvideos für die vorbereitenden Aufgaben.
 
 ## Wo geht's los?
-Um die Vorbereitung auf die Projektarbeit zu beginnen, könnt ihr euch das Einführungsvideo erneut ansehen. Dieses wurde euch während der Vorlesung bereits gezeigt, steht euch allerdings weiterhin auf eurer Lernplattform zur Verfügung.
+Um die Vorbereitung auf die Projektarbeit zu beginnen, könnt ihr euch das Einführungsvideo erneut ansehen. Dieses wurde euch während der Vorlesung bereits gezeigt, steht euch allerdings weiterhin auf eurer Lernplattform sowie auf [YouTube](https://www.youtube.com/watch?v=Y6Z2gVE5nvo&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=1) zur Verfügung.
 
 ### Zusammenfassung des Videos
 * Die Aufgaben zur Vorbereitung dienen dem nötigen Kompetenzerwerb, um die Projektarbeit erfolgreich absolvieren zu können
