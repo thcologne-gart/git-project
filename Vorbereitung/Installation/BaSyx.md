@@ -30,6 +30,8 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration des BaSyx
   * Die `context.properties` Datei erlaubt das Setzen bestimmter Host-Daten wie ContextPath, IP oder Port
 * Statt der Eingabe bei [5 Minuten 16 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&t=5m16s) muss `docker run --name aas-server -p 4001:4001 -v <local-folder>:/usr/share/config eclipsebasyx/aas-server:1.0.0` ausgeführt werden
 
+Damit sind Installation und Konfiguration des BaSyx AAS Servers abgeschlossen.
+
 ### Ohne Docker Desktop
 :information_source: Dieser Abschnitt ist ausschließlich für Studierende gedacht, bei denen Docker Desktop aus verschiedenen Gründen nicht verfügbar ist.
 
@@ -40,5 +42,3 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration des BaSyx
 * Lege die extrahierte `Server.jar` in einem beliebigen Ordner ab und erstelle in demselben Ordner den Ordner `resources`
   * In `resources` werden die `aas.properties` und `context.properties` Dateien abgelegt
 * Der Server wird dann über die Eingabeaufforderung gestartet. Navigiere dazu in den entsprechenden Ordner und gib `java -jar Server.jar` ein, um den Server zu starten.
-  
-Damit sind Installation und Konfiguration des BaSyx AAS Servers abgeschlossen.
