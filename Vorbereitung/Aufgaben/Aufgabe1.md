@@ -39,9 +39,9 @@ In dieser Aufgabe werdet ihr einen AAS Server via REST-API aus Node-RED mit Date
   <summary>Hier findest du ein paar Tipps</summary>
   <ul>
    <li>Kannst du Docker Desktop nicht nutzen, lassen sich Node-RED sowie BaSyx AAS Server auch 'stand-alone' betreiben. Siehe dazu: <a href="https://nodered.org/docs/getting-started/">Node-RED</a>, <a href="https://github.com/thcologne-gart/git-project/blob/main/Vorbereitung/Installation/BaSyx.md">BaSyx AAS Server</a></li>
-   <li>Der AASX Package Explorer muss genutzt werden um eine AASX-Datei zu erstellen. Diese AASX-Datei muss das Informationsmodelle der Pumpe abbilden und darf keine Werte enthalten.</li>
+   <li>Der AASX Package Explorer muss genutzt werden um eine `.aasx` Datei zu erstellen. Diese AASX-Datei muss das Informationsmodelle der Pumpe abbilden und darf keine Werte enthalten.</li>
    <li>Kannst du den AASX Package Explorer nicht auf deinem System nutzen, bitte eine Kommilitonin oder einen Kommilitonen mit dir zusammenzuarbeiten.</li>
-   <li>Die XML-Datei mit den statischen Pumpendaten muss von dir erstellt werden. Diese XML-Datei muss die Werte zu den Merkmalen aus dem Informationsmodell enthalten.</li>
+   <li>Die `.xml` Datei mit den statischen Pumpendaten muss von dir erstellt werden. Diese XML-Datei muss die Werte zu den Merkmalen aus dem Informationsmodell enthalten.</li>
    <li>Die Simulation darf beliebig erweitert oder ersetzt werden.</li>
    <li>Nutzt du die Server.jar Datei anstelle des Docker Containers, müssen `context.properties` sowie `aas.properties` in dem Ordner `resources` liegen. Die `.aasx` Datei muss in demselben ordner wie die `Server.jar` Datei liegen.</li>
   </ul>
