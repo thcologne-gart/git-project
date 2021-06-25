@@ -25,10 +25,20 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration des BaSyx
 * Die erste Eingabe bei [3 Minuten 38 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&t=3m38s) kann ausgelassen werden
   * Alternativ kann die Eingabe durch `docker run --name aas-server -p 4001:4001 eclipsebasyx/aas-server:1.0.0` ersetzt werden
   * Hier wird der Server ohne Parameter gestartet, dies ist nicht notwendig
-* Die aas.properties Datei bei [4 Minuten 10 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&t=4m10s) kann aus [diesem GitHub Repository](../Dateien/BaSyx) heruntergeladen werden
+* Die `aas.properties` Datei bei [4 Minuten 10 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&t=4m10s) kann aus [diesem GitHub Repository](../Dateien/BaSyx) heruntergeladen werden
 * Zusätzlich zu der aas.properties Datei soll die context.properties Datei ebenfalls heruntergeladen und in den gleichen Ordner geschoben werden
-  * Die context.properties Datei erlaubt das Setzen bestimmter Host-Daten wie ContextPath, IP oder Port
+  * Die `context.properties` Datei erlaubt das Setzen bestimmter Host-Daten wie ContextPath, IP oder Port
 * Statt der Eingabe bei [5 Minuten 16 Sekunden](https://www.youtube.com/watch?v=nGRNg0sj1oY&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&t=5m16s) muss `docker run --name aas-server -p 4001:4001 -v <local-folder>:/usr/share/config eclipsebasyx/aas-server:1.0.0` ausgeführt werden
 
+### Ohne Docker Desktop
+:information_source: Dieser Abschnitt ist ausschließlich für Studierende gedacht, bei denen Docker Desktop aus verschiedenen Gründen nicht verfügbar ist.
+
+:information_source: Java Version 8 Update 291 (JRE 1.8.0_291-b10) oder höher wird benötigt
+
+* Lade das [BaSyx AAS Server Archiv](../Dateien/BaSyx/Java Server) herunter
+  * Die drei Dateien gehören zusammen und bilden gemeinsam eine `.zip` Datei. Gängige Komprimierungsprogramme wie 7zip, WinZip oder WinRAR ermöglichen das Entpacken solch aufgeteilter Archive.
+* Lege die extrahierte `Server.jar` in einem beliebigen Ordner ab und erstelle in demselben Ordner den Ordner `resources`
+  * In `resources` werden die `aas.properties` und `context.properties` Dateien abgelegt
+* Der Server wird dann über die Eingabeaufforderung gestartet. Navigiere dazu in den entsprechenden Ordner und gib `java -jar Server.jar` ein, um den Server zu starten.
   
 Damit sind Installation und Konfiguration des BaSyx AAS Servers abgeschlossen.
