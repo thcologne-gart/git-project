@@ -15,13 +15,13 @@ In dieser Aufgabe werdet ihr mehrere Assets in einem dynamischen Dashboard abbil
 * Erkunde die Daten in dem Grafana UI und stelle sicher, dass die *lokalen* Instanzen korrekt abgebildet werden.
 * Erstelle in Grafana ein neues Dashboard oder überarbeite das bestehende, um beide Asset Instanzen abzubilden.
 * Lege sinnvolle Variablen für das Dashboard fest und integriere diese in die Monitoring Anwendung.
-* Simuliere folgende Scenarien und analysiere das Verhalten deines Dashboards:
+* Simuliere folgende Szenarien und analysiere das Verhalten deines Dashboards:
   * Eines der Assets lädt keine Daten mehr in die Datenbank
   * Die Verbindung zwischen allen Assets und der Datenbank bricht ab
   * Ein neues, unbekanntes Asset lädt Daten in der gewohnten Struktur in die Datenbank
   * Ein neues, unbekanntes Asset lädt *andere* Daten in die Datenbank
-* Definiere das ideale Verhalten eines Dashboards bei den simulierten Scenarien und implementiere dieses.
-  * Teste deine Implementierung gegen die Scenarien und verbessere iterativ.
+* Definiere das ideale Verhalten eines Dashboards bei den simulierten Szenarien und implementiere dieses.
+* Teste deine Implementierung gegen die Szenarien und verbessere iterativ.
 
 ## Hinweise
 * Tauscht euch untereinander aus!
