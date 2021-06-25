@@ -29,7 +29,8 @@ In dieser Aufgabe werdet ihr ausgewählte Daten eines OPC UA Servers in eine Dat
 <details>
   <summary>Hier findest du ein paar Tipps</summary>
   <ul>
-    <li>Die Daten müssen in der Datenbank identifizierbar sein</li>
-    <li>Der opcua-logger erlaubt die Zuweisung mehrerer Tags, nutze dies, um Daten zu gruppieren</li>
+   <li>Kannst du Docker Desktop nicht nutzen, lassen sich Node-RED sowie BaSyx AAS Server auch 'stand-alone' betreiben. Siehe dazu: <a href="https://github.com/thcologne-gart/git-project/blob/main/Vorbereitung/Installation/InfluxDB.md#ohne-docker-desktop">InfluxDB</a></li>, <a href="https://github.com/thcologne-gart/git-project/blob/main/Vorbereitung/Installation/Grafana.md#ohne-docker-desktop">Grafana</a></li>
+   <li>Die Daten müssen in der Datenbank identifizierbar sein</li>
+   <li>Der opcua-logger erlaubt die Zuweisung mehrerer Tags, nutze dies, um Daten zu gruppieren</li>
   </ul>
 </details>
