@@ -19,7 +19,7 @@ In dieser Aufgabe werdet ihr einen AAS Server via REST-API aus Node-RED mit Date
 * Richte anhand der bereitgestellten Daten einen AAS Server für die *Master Pump 420* ein.
   * Nutze den BaSyx AAS Server Docker Container.
 * Bilde in dem AAS Server statische sowie dynamische Daten ab.
-  * Die statischen Pumpendaten sind aus einer XML-Datei auszulesen und dürfen nicht bereits im Modell enthalten sein.
+  * Die statischen Pumpendaten sind aus einer `.xml` Datei auszulesen und dürfen nicht bereits im Modell enthalten sein.
   * Die dynamischen Daten können aus einer Node-RED-internen Simulation entnommen werden, grundsätzlich ist die Quelle jedoch freigestellt.
 * Bilde unterschiedliche Merkmals- und Datentypen in dem AAS Server ab.
   * Beispielsweise könnte der Produktname in unterschiedlichen Sprachen vorliegen und somit ein Multi Language Property sein.
