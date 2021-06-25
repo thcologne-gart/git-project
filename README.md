@@ -3,6 +3,9 @@ Willkommen zum GitHub Repository des Gebäudeinformationstechnik Projekts des Ma
 
 :information_source: Nutzt den Issues Abschnitt um Fragen zu stellen, Fehler zu melden oder euch untereinander auszutauschen. Nutzt bitte die Suchfunktion, um zu Prüfen ob eure Frage oder das Problem bereits gepostet wurde.
 
+## Updates
+Aufgrund des Feedbacks am 25.06.2021 habe ich insbesondere [Installation und Konfiguration von BaSyx](Vorbereitung/Installation/BaSyx.md) sowie [Aufgabe 1](Vorbereitung/Aufgaben/Aufgabe1.md) um ein paar Informationen erweitert. Die Aufgabenstellung sowie der Ablauf sind nun hoffentlich etwas klarer.
+
 ## Einleitung
 Die Kerninhalte des Projekts können kurz und kanpp zusammengefasst werden: Industrie 4.0 Pumpenmonitoring über AAS, OPC UA und die Cloud.
 
@@ -23,7 +26,3 @@ Dieses GitHub Repository gibt euch Hilfsmittel an die Hand, um im Rahmen des Pro
 ## Aufbau
 * [Projektarbeit](Projektarbeit.md) enthält detailliertere Informationen zu der Projektarbeit im Labor
 * [Vorbereitung](Vorbereitung) enthält die Aufgaben sowie alle nötigen Ressourcen zur Vorbereitung auf die Projektarbeit
-
-## Updates
-### 25.06.2021
-Aufgrund des Feedbacks am 25.06.2021 habe ich insbesondere [Installation und Konfiguration von BaSyx](Vorbereitung/Installation/BaSyx.md) sowie [Aufgabe 1](Vorbereitung/Aufgaben/Aufgabe1.md) um ein paar Informationen erweitert. Die Aufgabenstellung sowie der Ablauf sind nun hoffentlich etwas klarer.
