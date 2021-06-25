@@ -136,3 +136,8 @@ influx v1 auth create \
 ```
 
 Damit sind Installation und Konfiguration der InfluxDB abgeschlossen.
+
+### Ohne Docker Desktop
+:information_source: Dieser Abschnitt ist ausschließlich für Studierende gedacht, bei denen Docker Desktop aus verschiedenen Gründen nicht verfügbar ist.
+
+* Besuche den Abschnitt [Install InfluxDB](https://docs.influxdata.com/influxdb/v2.0/install/) der InfluxDB Dokumentation und folge den Anweisungen
