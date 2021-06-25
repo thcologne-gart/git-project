@@ -26,3 +26,8 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Grafa
   * Passwort ändern
   
 Damit sind Installation und Konfiguration von Grafana abgeschlossen.
+
+### Ohne Docker Desktop
+:information_source: Dieser Abschnitt ist ausschließlich für Studierende gedacht, bei denen Docker Desktop aus verschiedenen Gründen nicht verfügbar ist.
+
+* Besuche den Abschnitt [Installation](https://grafana.com/docs/grafana/latest/installation/) der Grafana Dokumentation und folge den Anweisungen
