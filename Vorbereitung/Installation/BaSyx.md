@@ -35,7 +35,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration des BaSyx
 
 :information_source: Java Version 8 Update 291 (JRE 1.8.0_291-b10) oder höher wird benötigt
 
-* Lade das [BaSyx AAS Server Archiv](../Dateien/BaSyx/Java Server) herunter
+* Lade das [BaSyx AAS Server Archiv](../Dateien/BaSyx/JavaServer) herunter
   * Die drei Dateien gehören zusammen und bilden gemeinsam eine `.zip` Datei. Gängige Komprimierungsprogramme wie 7zip, WinZip oder WinRAR ermöglichen das Entpacken solch aufgeteilter Archive.
 * Lege die extrahierte `Server.jar` in einem beliebigen Ordner ab und erstelle in demselben Ordner den Ordner `resources`
   * In `resources` werden die `aas.properties` und `context.properties` Dateien abgelegt
