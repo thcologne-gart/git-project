@@ -38,8 +38,8 @@ In dieser Aufgabe werdet ihr einen AAS Server via REST-API aus Node-RED mit Date
 <details>
   <summary>Hier findest du ein paar Tipps</summary>
   <ul>
-    <li>Der AASX Package Explorer muss genutzt werden um eine AASX-Datei zu erstellen</li>
-    <li>Die XML-Datei mit den statischen Pumpendaten muss von dir erstellt werden</li>
-    <li>Die Simulation darf beliebig erweitert oder ersetzt werden</li>
+    <li>Der AASX Package Explorer muss genutzt werden um eine AASX-Datei zu erstellen. Diese AASX-Datei muss das Informationsmodelle der Pumpe abbilden und darf keine Werte enthalten.</li>
+    <li>Die XML-Datei mit den statischen Pumpendaten muss von dir erstellt werden. Diese XML-Datei muss die Werte zu den Merkmalen aus dem Informationsmodell enthalten.</li>
+    <li>Die Simulation darf beliebig erweitert oder ersetzt werden.</li>
   </ul>
 </details>
