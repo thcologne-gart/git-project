@@ -87,7 +87,7 @@ influx user create \
 --org organization
 ```
 
-___4. Ermöglicht opcua logger das Schreiben:___
+___4. Legt eine v1 Datenbank zum v2 Bucket an:___
 ``` 
 influx v1 dbrp create \
 --bucket-id <bucket-id> \
