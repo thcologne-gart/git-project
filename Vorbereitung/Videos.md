@@ -53,11 +53,11 @@ Die folgenden Videos bauen aufeinander auf und sollten während der Bearbeitung 
 
 ## Weitere Videos
 Die folgenden Videos wurden nicht explizit für diesen Kurs ausgelegt. Die Informationen sind jedoch durchgehend interessant und vertiefen das Verständnis der Materie. Es wird wärmstens Empfohlen alle verlinkten Videos eingehend zu studieren.
-* Fraunhofer IESE: [Getting started with Eclipse BaSyx: Setting up a running example in 15 minutes from scratch](https://www.youtube.com/watch?v=rRol5EVZHZA)
-  * Dieses Video ist nicht notwendig für das Projekt, bietet jedoch wertvolle Hintergrundinformationen zu dem verwendeten BaSyx SDK und sollte von allen Interessierten geschaut werden.
 * ACC Automation: [Node-RED Modbus RTU / TCP Communication](https://www.youtube.com/watch?v=yX1w5vcV6cc)
   * Die ersten neun Minuten des Videos erklären die Installation und Verwendung von Modbus Nodes.
   * Ab Minute neun ist das Video nichtmehr relevant für unser Projekt. Interessierte können dem interessanten Video natürlich bis zum Ende folgen.
   * Wichtige Sprungmarken:
     * [Installing node-red-contrib-modbus Palette](https://www.youtube.com/watch?v=yX1w5vcV6cc&t=126s)
     * [Node-RED Modbus Flow Program](https://www.youtube.com/watch?v=yX1w5vcV6cc&t=245s)
+* Fraunhofer IESE: [Getting started with Eclipse BaSyx: Setting up a running example in 15 minutes from scratch](https://www.youtube.com/watch?v=rRol5EVZHZA)
+  * Dieses Video ist nicht notwendig für das Projekt, bietet jedoch wertvolle Hintergrundinformationen zu dem verwendeten BaSyx SDK und sollte von allen Interessierten geschaut werden.
