@@ -6,10 +6,10 @@ Hier findet ihr Links zu Seiten und Videos, die euch beim Erwerb der nötigen Gr
   * Ist für Anfänger und Experten im Bereich des AASX Package Explorers sowie weiterer AAS Themen geeignet
 * [Basic Concepts of Programming](https://www.youtube.com/watch?v=quW5dAGpXiU)[en] fasst die wichtigsten Programmier-Basics zusammen
   * Wer noch nie programmiert hat oder wer seine Grundlagen auffrischen möchte, ist hier richtig
-* [BaSyx Eclipse wiki](https://wiki.eclipse.org/BaSyx)[en] ist der Startpunkt für das Eclipse Wiki von BaSyx. Hier finden sich alle wichtigen Informationen zu dem SDK
 * [BaSyx-Middleware – einfach erklärt anhand der Modellfabrik](https://www.youtube.com/watch?v=bMY8FLhjjRI)[de] dient als Einstiegspunkt für BaSyx Content des Fraunhofer IESE
   * Der Kanal bietet weitere wichtige und interessante Videos für Anfänger und Experten
 * [Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag&t=2712s)[en] ist eine ausführliche Einführung in die Linux Bash
+  * In knapp über einer guten Stunde werden alle wichtigen Kommandos für die Linux Bash erläutert. Der Inhalt geht weit über das Notwendige für die Projektarbeit hinaus, bietet aber einen sehr guten Einstieg für Bash Anfänger. 
 * [docker guides](https://docs.docker.com/get-started/overview/)[en] dient als Startpunkt für viele Tutorials zu docker
   * Das Repository ist für Anfänger und Experten geeignet
   * Insbesondere die [Educational resources](https://docs.docker.com/get-started/resources/)[en] sind interessant
