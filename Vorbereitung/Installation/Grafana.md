@@ -21,7 +21,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Grafa
 
 ### Konfiguration und Start
 * Per Browser mit Grafana verbinden `http://<ip-address>:3000/`
-  * `<ip-address>` muss mit der IP Adresse der Maschine ersetzt werden, da `localhost` aufgrund des Docker Containers nicht funktioniert
+  * `<ip-address>` ist eure lokale IP Adresse
 * Username und Password eingeben (Username: admin, Password: admin)
   * Passwort ändern
   
