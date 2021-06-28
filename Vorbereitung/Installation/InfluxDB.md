@@ -23,7 +23,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration der Influ
 
 ### Konfiguration und Start
 * Per Browser mit InfluxDB verbinden `http://<ip-address>:8086/`
-  * `<ip-address>` ist eure lokale IP Adresse. Dies gilt auch für die folgenden Schritte der Installaation und Konfiguration.
+  * `<ip-address>` ist eure lokale IP Adresse. Dies gilt auch für die folgenden Schritte der Installaation und Konfiguration!
 * Username, Password, Initial Organization Name und Initial Bucket Name festlegen
   * im Folgenden respektive `<original-username>`, `<original-password>`, `<org-name>` und `<bucket-name>` genannt
   * Bsp.: user, password2020, org, data
