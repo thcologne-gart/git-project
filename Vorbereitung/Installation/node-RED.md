@@ -21,6 +21,6 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Node-
 
 ### Konfiguration und Start
 * Per Browser mit Node-RED verbinden `http://<ip-address>:1880/`
-  * `<ip-address>` muss mit der IP Adresse der Maschine ersetzt werden, da `localhost` aufgrund des Docker Containers nicht funktioniert
+  * `<ip-address>` ist eure lokale IP Adresse
   
 Damit sind Installation und Konfiguration von Node-RED abgeschlossen.
