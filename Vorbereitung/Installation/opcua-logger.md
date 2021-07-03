@@ -21,5 +21,6 @@ Dieses Dokument dient als Anleitung zur Installation des opcua-loggers auf Windo
 ### Hinweise
 * Der verlinkte opcua-logger ist leicht modifiziert. Neben den drei Standard-Datentypen `string`, `number` und `boolean` ist nun auch der Datentyp `localizedText` verfügbar. Dieser Datentyp ermöglicht den Upload von Nodes des OPC UA Datentyps `localizedText` indem der Wert der zuerst eingetragenen Sprache gelesen und als String hochgeladen wird.
   * Bsp.: Verfügt ein Merkmal über den Value `[locale: en, text: Pump; locale:de, text:Pumpe]`, wird der String `Pump` in die Datenbank hochgeladen.
+* Das [originale GitHub Repository des opcua-loggers](https://github.com/coussej/node-opcua-logger) enthält einige nützliche Informationen
 
 Damit ist die Installation des opcua-logger abgeschlossen.
