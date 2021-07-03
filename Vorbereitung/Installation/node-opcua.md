@@ -22,3 +22,7 @@ Dieses Dokument dient als Anleitung zur Installation von NodeOPCUA auf Windows 1
 * `npm i axios` ausführen und Fertigstellung abwarten
   
 Damit ist die Installation von NodeOPCUA abgeschlossen.
+
+### Hinweise
+* Die [GitHub Seite von NodeOPCUA](https://node-opcua.github.io/) stellt einige nützliche Informationen bereit
+* Die [Dokumentation von NodeOPCUA](https://node-opcua.github.io/api_doc/2.32.0/index.html) kann bei einer ausführlicheren Konfiguration eines OPC UA Servers helfen
