@@ -36,6 +36,6 @@ In dieser Aufgabe werdet ihr mehrere Assets in einem dynamischen Dashboard abbil
       <summary>Noch ein Tipp</summary>
       <ul><li>Netzwerkports sowie Datenquellen der beiden Asset Instanzen müssen unterschiedlich sein</li></ul>
     </details>
-    <li>Die definierten Variablen sollten zur Identifizeirung der Assets dienen und jeweils einzigartig sein</li>
+    <li>Die definierten Variablen sollten zur Identifizierung der Assets dienen und jeweils einzigartig sein</li>
   </ul>
 </details>
