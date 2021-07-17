@@ -23,7 +23,7 @@ In dieser Aufgabe werdet ihr einen AAS Server via REST-API aus Node-RED mit Date
   * Die dynamischen Daten können aus einer Node-RED-internen Simulation entnommen werden, grundsätzlich ist die Quelle jedoch freigestellt.
 * Bilde unterschiedliche Merkmals- und Datentypen in dem AAS Server ab.
   * Beispielsweise könnte der Produktname in unterschiedlichen Sprachen vorliegen und somit ein Multi Language Property sein.
-* Erkunde den AAS HTTP Server mit einem Browser, um sicherzustelölen, dass alle Daten korrekt angezeigt werden.
+* Erkunde den AAS HTTP Server mit einem Browser, um sicherzustellen, dass alle Daten korrekt angezeigt werden.
 * Erstelle einen weiteren Node-RED Flow und ließ die AAS aus.
   * Optional kannst du ausprobieren, die ausgelesenen Daten in eine neue Datei zu schreiben.
 * Füge das Node-RED contribution package für Modbus hinzu und analysiere die verfügbaren Nodes
