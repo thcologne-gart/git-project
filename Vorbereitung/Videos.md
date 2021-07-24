@@ -1,7 +1,7 @@
 # Videos zur Vorbereitung
 Die hier verlinkten Videos dienen der Vorbereitung. Wenn keine Sprungmarken angegeben sind, ist das Video in seiner Gänze relevant.
 
-Einige Videos sind explizit für diesen Kurs entstanden und beschreiben Beispielhaft die nötigen Arbeitsschritte um die vorbereitenden Aufgaben durchzuführen. Sie sollen keine Musterlösung geben und erklären lediglich die wichtigsten Mechanismen und Vorgehensweisen. Je nach persönlichem Vorwissen in den verschiedenen Bereichen, kann es möglich sein einzelne Abschnitte zu überspringen. Es kann außerdem nötig sein, sich bestimmtes Vorwissen erst aneignen zu müssen.
+Einige Videos sind explizit für diesen Kurs entstanden und beschreiben beispielhaft die nötigen Arbeitsschritte, um die vorbereitenden Aufgaben durchzuführen. Sie sollen keine Musterlösung geben und erklären lediglich die wichtigsten Mechanismen und Vorgehensweisen. Je nach persönlichem Vorwissen in den verschiedenen Bereichen kann es möglich sein, einzelne Abschnitte zu überspringen. Es kann außerdem nötig sein, sich bestimmtes Vorwissen erst aneignen zu müssen.
 
 Grundsätzlich sind zum Verständnis der Videos folgende Fähigkeiten vorausgesetzt:
 * Grundlegende Kenntnisse in Windows 10 und der Eingabeaufforderung
@@ -52,7 +52,7 @@ Die folgenden Videos bauen aufeinander auf und sollten während der Bearbeitung 
 * E10: [Grafana - Dynamische Panels und Dashboards auf Grundlage von Variablen erstellen](https://www.youtube.com/watch?v=biAnjcLIkxc&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=11)
 
 ## Weitere Videos
-Die folgenden Videos wurden nicht explizit für diesen Kurs ausgelegt. Die Informationen sind jedoch durchgehend interessant und vertiefen das Verständnis der Materie. Es wird wärmstens Empfohlen alle verlinkten Videos eingehend zu studieren.
+Die folgenden Videos wurden nicht explizit für diesen Kurs ausgelegt. Die Informationen sind jedoch durchgehend interessant und vertiefen das Verständnis der Materie. Es wird wärmstens empfohlen alle verlinkten Videos eingehend zu studieren.
 * [Node-RED Modbus RTU / TCP Communication](https://www.youtube.com/watch?v=yX1w5vcV6cc)
   * In der Projektarbeit werden teilweise Modbus RTU Nodes für Node-RED verwendet.
   * Die ersten neun Minuten des Videos erklären die Installation und Verwendung von Modbus Nodes.
@@ -61,6 +61,6 @@ Die folgenden Videos wurden nicht explizit für diesen Kurs ausgelegt. Die Infor
     * [Installing node-red-contrib-modbus Palette](https://www.youtube.com/watch?v=yX1w5vcV6cc&t=126s)
     * [Node-RED Modbus Flow Program](https://www.youtube.com/watch?v=yX1w5vcV6cc&t=245s)
 * [Basic Linux Commands You Need To Know](https://www.youtube.com/watch?v=J2zquYPJbWY)
-  * In der Projektarbeit werdet ihr teilweise in einer Linux Bash (Raspbian) arbeiten müssen. Wer keine Erfahrung mit Linux Bash hat, sollte sich zumindest dieses kurze Video anschauen um ein paar Grundlegende Kommandos zu lernen.
+  * In der Projektarbeit werdet ihr teilweise in einer Linux Bash (Raspbian) arbeiten müssen. Wer keine Erfahrung mit Linux Bash hat, sollte sich zumindest dieses kurze Video anschauen, um ein paar Grundlegende Kommandos zu lernen.
 * [Getting started with Eclipse BaSyx: Setting up a running example in 15 minutes from scratch](https://www.youtube.com/watch?v=rRol5EVZHZA)
   * Dieses Video ist nicht notwendig für das Projekt, bietet jedoch wertvolle Hintergrundinformationen zu dem verwendeten BaSyx SDK und sollte von allen Interessierten geschaut werden.

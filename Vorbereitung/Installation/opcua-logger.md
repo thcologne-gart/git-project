@@ -23,4 +23,4 @@ Dieses Dokument dient als Anleitung zur Installation des opcua-loggers auf Windo
   * Bsp.: Verfügt ein Merkmal über den Value `[locale: en, text: Pump; locale:de, text:Pumpe]`, wird der String `Pump` in die Datenbank hochgeladen.
 * Das [originale GitHub Repository des opcua-loggers](https://github.com/coussej/node-opcua-logger) enthält einige nützliche Informationen
 
-Damit ist die Installation des opcua-logger abgeschlossen.
+Damit ist die Installation des opcua-logger abgeschlossen. 

@@ -34,7 +34,7 @@ In dieser Aufgabe werdet ihr mehrere Assets in einem dynamischen Dashboard abbil
     <li>Die zweite Asset Instanz kann aus einer Kopie des Flows, AAS Servers und OPC UA Servers bestehen</li>
 	<details>
       <summary>Noch ein Tipp</summary>
-      <ul><li>Netzwerkports sowie Datenquellen der beiden Asset Instanzen müssen unterschiedlich sein</li></ul>
+      <ul><li>Netzwerk Ports sowie Datenquellen der beiden Asset Instanzen müssen unterschiedlich sein</li></ul>
     </details>
     <li>Die definierten Variablen sollten zur Identifizierung der Assets dienen und jeweils einzigartig sein</li>
   </ul>

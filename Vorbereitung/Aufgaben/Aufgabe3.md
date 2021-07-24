@@ -15,7 +15,7 @@ In dieser Aufgabe werdet ihr ausgewählte Daten eines OPC UA Servers in eine Dat
 ## Aufgabenstellung
 * Lade die Daten des *Master Pump 420* OPC UA Servers via opcua-logger in die InfluxDB.
 * Unterscheide beim Upload zwischen statischen und dynamischen Daten.
-  * Nutze unterschiedliche Datentypen, String Formate, Intervalle und Uploadarten.
+  * Nutze unterschiedliche Datentypen, String Formate und Intervalle.
 * Erkunde die Daten sowohl in dem InfluxDB UI sowie dem Grafana UI und identifiziere mögliche Unterschiede.
 * Erstelle in Grafana ein Dashboard, welches sowohl die statischen als auch die dynamischen Daten in geeigneter Weise darstellt.
 * Identifiziere wichtige Merkmale eines Dashboards. Nutze dazu dir bekannte Ressourcen.

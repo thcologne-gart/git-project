@@ -19,11 +19,11 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration der Influ
 * Öffne die Eingabeaufforderung (cmd)
 * `docker run --name influxDB -p 8086:8086 -v <local-folder>:/var/lib/influxdb influxdb:latest` ausführen
 
-:information_source: `\` erzeugt einen Zeilenumbruch ohne das Kommando abzuschicken
+:information_source: `\` erzeugt einen Zeilenumbruch, ohne das Kommando abzuschicken
 
 ### Konfiguration und Start
 * Per Browser mit InfluxDB verbinden `http://<ip-address>:8086/`
-  * `<ip-address>` ist eure lokale IP Adresse. Dies gilt auch für die folgenden Schritte der Installaation und Konfiguration!
+  * `<ip-address>` ist eure lokale IP Adresse. Dies gilt auch für die folgenden Schritte der Installation und Konfiguration!
 * Username, Password, Initial Organization Name und Initial Bucket Name festlegen
   * im Folgenden respektive `<original-username>`, `<original-password>`, `<org-name>` und `<bucket-name>` genannt
   * Bsp.: user, password2020, org, data
@@ -33,7 +33,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration der Influ
 * Data --> Buckets --> ID des Buckets <bucket-name> mit einem Klick auf die ID kopieren
   * im Folgenden `<bucket-id>` genannt
 * In Docker Desktop bei dem influxDB Container auf `CLI` klicken
-* Folgede Eingaben nacheinander durchführen:
+* Folgende Eingaben nacheinander durchführen:
 
 ___1. Legt eine dauerhafte Konfiguration an, die den Token speichert und Schreibrechte gewährleistet:___
 ```

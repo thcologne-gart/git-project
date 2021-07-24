@@ -33,8 +33,8 @@ In dieser Aufgabe werdet ihr einen OPC UA Server auf Grundlage von NodeOPCUA ers
 <details>
   <summary>Hier findest du ein paar Tipps</summary>
   <ul>
-    <li>Der UaModeler muss genutzt werden um eine XML-Datei zu erstellen</li>
+    <li>Der UaModeler muss genutzt werden, um eine XML-Datei zu erstellen</li>
 	<li>Wenn du an die Grenzen des kostenlosen UaModelers stößt, exportiere die maximale Node-Anzahl und setze die Bearbeitung im XML-Editor fort</li>
-    <li>Der HTTP Client im OPC UA Server (hier axios) muss genutzt werden um das [BaSyx API](https://app.swaggerhub.com/apis/BaSyx/basyx_asset_administration_shell_repository_http_rest_api/v1) umzusetzen</li>
+    <li>Der HTTP Client im OPC UA Server (hier Axios) muss genutzt werden um das [BaSyx API](https://app.swaggerhub.com/apis/BaSyx/basyx_asset_administration_shell_repository_http_rest_api/v1) umzusetzen</li>
   </ul>
 </details>

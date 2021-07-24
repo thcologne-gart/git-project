@@ -6,7 +6,7 @@ In dieser Aufgabe werdet ihr einen AAS Server via REST-API aus Node-RED mit Date
 * Beachtet die [Hinweise zu dem BaSyx Video](../Installation/BaSyx.md)
 * Die Daten einer fiktiven [Pumpe](../Dateien/Pumpendaten) werden benötigt
 * [Simulations-Flow](../Dateien/node-RED) für Node-RED
-* [Konfigurationsdateien](../Dateien/BaSyx) für BaSyX
+* [Konfigurationsdateien](../Dateien/BaSyx) für BaSyx
 * [BaSyx AAS Repository HTTP REST-API](https://app.swaggerhub.com/apis/BaSyx/basyx_asset_administration_shell_repository_http_rest_api/v1)
 * [AASX Package Explorer Screencasts](https://admin-shell-io.com/screencasts/) 
 * Grundsätzlich ist die [Videos.md](../Videos.md) Datei zu beachten
@@ -43,6 +43,6 @@ In dieser Aufgabe werdet ihr einen AAS Server via REST-API aus Node-RED mit Date
    <li>Der AASX Package Explorer muss genutzt werden um eine `.aasx` Datei zu erstellen. Diese `.aasx` Datei muss das Informationsmodelle der Pumpe abbilden und darf keine Werte enthalten.</li>
    <li>Die `.xml` Datei mit den statischen Pumpendaten muss von dir erstellt werden. Diese `.xml` Datei muss die Werte zu den Merkmalen aus dem Informationsmodell enthalten.</li>
    <li>Die Simulation darf beliebig erweitert oder ersetzt werden.</li>
-   <li>Nutzt du die Server.jar Datei anstelle des Docker Containers, müssen `context.properties` sowie `aas.properties` in dem Ordner `resources` liegen. Die `.aasx` Datei muss in demselben ordner wie die `Server.jar` Datei liegen.</li>
+   <li>Nutzt du die Server.jar Datei anstelle des Docker Containers, müssen `context.properties` sowie `aas.properties` in dem Ordner `resources` liegen. Die `.aasx` Datei muss in demselben Ordner wie die `Server.jar` Datei liegen.</li>
   </ul>
 </details>

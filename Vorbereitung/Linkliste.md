@@ -24,7 +24,7 @@ Hier findet ihr Links zu Seiten und Videos, die euch beim Erwerb der nötigen Gr
   * Innerhalb der InfluxDB Dokumentation finden sich viele Tutorials für jegliche Anwendungen
   * Die Dokumentation von InfluxDB wird sowohl von Anfängern als auch Profis genutzt
 * [JavaScript Tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[en] ist der Tutorials Abschnitt in der MDN JavaScript Dokumentation
-  * Für Anfänger bis Experten ist etwas dabei
+  * Für Anfänger, bis Experten ist etwas dabei
 * [Javascript Tutorial für Anfänger (deutsch) | Teil 1 - Einführung und erstes Programm](https://www.youtube.com/watch?v=KiI9pUzx98w)[de] ist der Start einer tollen Tutorial Serie zu JavaScript und NodeJS.
   * Wer noch nie mit JavaScript und/oder NodeJS gearbeitet hat, ist hier richtig
 * [Node-RED Guide](http://noderedguide.com/)[en] bietet ausführliche Tutorials zu Node-RED.
@@ -40,10 +40,10 @@ Hier findet ihr Links zu Seiten und Videos, die euch beim Erwerb der nötigen Gr
 * [Was ist eine REST-API?](https://www.youtube.com/watch?v=lsMQRaeKNDk)[en] erklärt die Basics eines REST APIs.
   * Wer noch nie mit einem REST API gearbeitet hat oder "nicht so richtig" Bescheid weiß, ist hier richtig
   * Besonders angenehm, da in dark mode
-* [XML in 5 Minuten - Was ist XML? So lernst Du es schnell & einfach](https://www.youtube.com/watch?v=RkLu9TO2V2U)[de] bietet eine schnelle Einführung in XML und umreißt die wichtigsten Punkte um XML zu verstehen
+* [XML in 5 Minuten - Was ist XML? So lernst Du es schnell & einfach](https://www.youtube.com/watch?v=RkLu9TO2V2U)[de] bietet eine schnelle Einführung in XML und umreißt die wichtigsten Punkte, um XML zu verstehen
   * Kann lediglich als Einführung dienen, ist jedoch ein guter Start für alle die keine Vorstellung davon haben was XML ist
 
-:information_source: Zu OPC UA gibt es leider recht wenig gute und frei zugängliche Kurse oder Videos. Falls ihr bei euren Recherchen auf gute, frei verfügbare Ressourcen stoßt, würde ich mich freuen wenn ihr dies hier anfügt oder ein Issue erstellt. Vielen Dank!
+:information_source: Zu OPC UA gibt es leider recht wenig gute und frei zugängliche Kurse oder Videos. Falls ihr bei euren Recherchen auf gute, frei verfügbare Ressourcen stoßt, würde ich mich freuen, wenn ihr dies hier anfügt oder ein Issue erstellt. Vielen Dank!
 
 ## Dokumentation
 * [BaSyx](https://wiki.eclipse.org/BaSyx_/_Documentation)
