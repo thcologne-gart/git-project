@@ -1,6 +1,6 @@
 # Installation und Konfiguration von Node-RED
 
-Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Node-RED auf Windows 10.
+Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Node-RED unter Windows 10.
 
 [<img src="https://avatars.githubusercontent.com/u/5375661?s=200&v=4" width="100">](https://nodered.org/)
 
