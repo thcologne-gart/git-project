@@ -1,6 +1,6 @@
 # Installation von NodeOPCUA
 
-Dieses Dokument dient als Anleitung zur Installation von NodeOPCUA auf Windows 10.
+Dieses Dokument dient als Anleitung zur Installation von NodeOPCUA unter Windows 10.
 
 <!--:information_source: **Diese Anleitung wurde mit der offiziellen NodeOPCUA v2.43.0 getestet.**-->
 
