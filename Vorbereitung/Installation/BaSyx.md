@@ -1,6 +1,6 @@
 # Installation und Konfiguration von BaSyx
 
-Dieses Dokument dient als Anleitung zur Installation und Konfiguration des BaSyx AAS Servers auf Windows 10.
+Dieses Dokument dient als Anleitung zur Installation und Konfiguration des BaSyx AAS Servers unter Windows 10.
 
 [<img src="https://www.eclipse.org/basyx/img/basyxlogo.png" width="100">](https://www.eclipse.org/basyx/)
 
