@@ -4,7 +4,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Grafa
 
 [<img src="https://grafana.com/static/assets/internal/grafana_logo-web-dark.svg" width="100">](https://grafana.com/)
 
-:information_source: **Diese Anleitung wurde mit dem offiziellen Grafana 8.0.0-beta3 Docker Container getestet.** Sollte es mit einem späteren build zu Problemen kommen, kann bei der Installation statt `latest` auch `8.0.0-beta3` eingegeben werden.
+<!--:information_source: **Diese Anleitung wurde mit dem offiziellen Grafana 8.0.0-beta3 Docker Container getestet.** Sollte es mit einem späteren build zu Problemen kommen, kann bei der Installation statt `latest` auch `8.0.0-beta3` eingegeben werden.-->
 
 ### Vor der Installation
 * Docker Desktop muss installiert und gestartet sein
@@ -17,7 +17,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Grafa
 
 ### Installation
 * Öffne die Eingabeaufforderung (cmd)
-* `docker run -d --name grafana -p 3000:3000 -v <local-folder>:/var/lib/grafana grafana/grafana:latest` ausführen
+* `docker run -d --name grafana -p 3000:3000 -v <local-folder>:/var/lib/grafana grafana/grafana:8.0.0-beta3` ausführen
 
 ### Konfiguration und Start
 * Per Browser mit Grafana verbinden `http://<ip-address>:3000/`
