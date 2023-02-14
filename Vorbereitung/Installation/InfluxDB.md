@@ -26,7 +26,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration der Influ
   * `<ip-address>` ist eure lokale IP Adresse. Dies gilt auch für die folgenden Schritte der Installation und Konfiguration!
 * Username, Password, Initial Organization Name und Initial Bucket Name festlegen
   * im Folgenden respektive `<original-username>`, `<original-password>`, `<org-name>` und `<bucket-name>` genannt
-  * Bsp.: user, password2020, org, data
+  * Bsp.: student, password, th-cologne, opcua-data
 * `Configure later` klicken
 * Data --> Tokens --> `<original-username>'s Token` klicken und mit `Copy to Clipboard` Token String kopieren
   * im Folgenden `<token>` genannt
@@ -49,9 +49,9 @@ ___Beispiel___
 ```
 influx config create \
 --active \
---config-name example-config \
+--config-name simple-config \
 --host-url http://192.168.0.1:8086 \
---org organization \
+--org th-cologne \
 --token q_ETpZ8yAjqOt-KupyfShva3otKaF4zhPHwRV2d7x1y1ZobwDTLiFWUJ4a8s65-q6rHQGrKXkhi1SyOJOj3KkQ==
 ```
 
@@ -66,9 +66,9 @@ influx user create \
 ___Beispiel___
 ```
 influx user create \
---name logger \
---password logger2020 \
---org organization
+--name logger2023 \
+--password password2023 \
+--org th-cologne
 ```
 
 ___3. Legt einen zusätzlichen InfluxDB-User für Grafana an:___
@@ -82,9 +82,9 @@ influx user create \
 ___Beispiel___
 ``` 
 influx user create \
---name grafana \
---password grafana2020 \
---org organization
+--name grafana2023 \
+--password password2023 \
+--org th-cologne
 ```
 
 ___4. Legt eine v1 Datenbank zum v2 Bucket an:___
@@ -100,8 +100,8 @@ ___Beispiel___
 ``` 
 influx v1 dbrp create \
 --bucket-id 8f67da14d3fcc6d2 \
---db data \
---rp data-rp \
+--db opcua-data \
+--rp opcua-data-rp \
 --default
 ```
 
@@ -118,7 +118,7 @@ ___Beispiel___
 influx v1 auth create \
 --read-bucket 8f67da14d3fcc6d2 \
 --write-bucket 8f67da14d3fcc6d2 \
---username logger
+--username logger2023
 ```
 
 ___6. Gibt Grafana Leserechte:___
@@ -132,7 +132,7 @@ ___Beispiel___
 ``` 
 influx v1 auth create \
 --read-bucket 8f67da14d3fcc6d2 \
---username grafana
+--username grafana2023
 ```
 
 Damit sind Installation und Konfiguration der InfluxDB abgeschlossen.
