@@ -1,6 +1,6 @@
 # Installation des opcua-loggers
 
-Dieses Dokument dient als Anleitung zur Installation des opcua-loggers auf Windows 10.
+Dieses Dokument dient als Anleitung zur Installation des opcua-loggers unter Windows 10.
 
 :information_source: **Diese Anleitung benötigt die modifizierten Version des opcua-loggers 2.0.0-alpha.**
 
