@@ -66,7 +66,7 @@ influx user create \
 ___Beispiel___
 ```
 influx user create \
---name logger2023 \
+--name logger \
 --password password2023 \
 --org th-cologne
 ```
@@ -82,7 +82,7 @@ influx user create \
 ___Beispiel___
 ``` 
 influx user create \
---name grafana2023 \
+--name grafana \
 --password password2023 \
 --org th-cologne
 ```
@@ -118,7 +118,7 @@ ___Beispiel___
 influx v1 auth create \
 --read-bucket 8f67da14d3fcc6d2 \
 --write-bucket 8f67da14d3fcc6d2 \
---username logger2023
+--username logger
 ```
 
 ___6. Gibt Grafana Leserechte:___
@@ -132,7 +132,7 @@ ___Beispiel___
 ``` 
 influx v1 auth create \
 --read-bucket 8f67da14d3fcc6d2 \
---username grafana2023
+--username grafana
 ```
 
 Damit sind Installation und Konfiguration der InfluxDB abgeschlossen.
