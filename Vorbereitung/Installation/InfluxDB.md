@@ -1,6 +1,6 @@
 # Installation und Konfiguration der InfluxDB
 
-Dieses Dokument dient als Anleitung zur Installation und Konfiguration der InfluxDB auf Windows 10.
+Dieses Dokument dient als Anleitung zur Installation und Konfiguration der InfluxDB unter Windows 10.
 
 [<img src="https://www.influxdata.com/wp-content/uploads/influx-logo-white-01.svg" width="100">](https://www.influxdata.com/)
 
