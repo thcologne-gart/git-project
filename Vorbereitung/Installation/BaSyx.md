@@ -4,7 +4,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration des BaSyx
 
 [<img src="https://www.eclipse.org/basyx/img/basyxlogo.png" width="100">](https://www.eclipse.org/basyx/)
 
-:information_source: **Diese Anleitung wurde mit dem offiziellen BaSyx 1.0.0 Docker Container getestet.**
+<!--:information_source: **Diese Anleitung wurde mit dem offiziellen BaSyx 1.0.0 Docker Container getestet.**-->
 
 ### Vor der Installation
 * Docker Desktop muss installiert und gestartet sein
