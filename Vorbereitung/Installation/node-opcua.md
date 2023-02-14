@@ -2,7 +2,7 @@
 
 Dieses Dokument dient als Anleitung zur Installation von NodeOPCUA auf Windows 10.
 
-:information_source: **Diese Anleitung wurde mit der offiziellen NodeOPCUA v2.43.0 getestet.**
+<!--:information_source: **Diese Anleitung wurde mit der offiziellen NodeOPCUA v2.43.0 getestet.**-->
 
 ### Vor der Installation
 * NodeJS muss installiert sein
@@ -18,7 +18,7 @@ Dieses Dokument dient als Anleitung zur Installation von NodeOPCUA auf Windows 1
 * Navigiere in der Eingabeaufforderung zum `<local-folder>`
 * `npm init` ausführen und die geforderten Daten eingeben
   * Was konkret eingegeben wird hat auf das Beispiel keinen Einfluss
-* `npm install node-opcua --unsafe-perms` ausführen und Fertigstellung abwarten
+* `npm install node-opcua@2.43.0 --unsafe-perms` ausführen und Fertigstellung abwarten
 * `npm i axios` ausführen und Fertigstellung abwarten
   
 Damit ist die Installation von NodeOPCUA abgeschlossen.
