@@ -4,7 +4,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration der Influ
 
 [<img src="https://www.influxdata.com/wp-content/uploads/influx-logo-white-01.svg" width="100">](https://www.influxdata.com/)
 
-:information_source: **Diese Anleitung wurde mit dem offiziellen InfluxDB 2.0.5 Docker Container getestet.** Sollte es mit einem späteren build zu Problemen kommen, kann bei der Installation statt `latest` auch `2.0.5` eingegeben werden.
+<!--:information_source: **Diese Anleitung wurde mit dem offiziellen InfluxDB 2.0.5 Docker Container getestet.** Sollte es mit einem späteren build zu Problemen kommen, kann bei der Installation statt `latest` auch `2.0.5` eingegeben werden.-->
 
 ### Vor der Installation
 * Docker Desktop muss installiert und gestartet sein
@@ -17,7 +17,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration der Influ
 
 ### Installation
 * Öffne die Eingabeaufforderung (cmd)
-* `docker run --name influxDB -p 8086:8086 -v <local-folder>:/var/lib/influxdb influxdb:latest` ausführen
+* `docker run --name influxDB -p 8086:8086 -v <local-folder>:/var/lib/influxdb influxdb:2.0.5` ausführen
 
 :information_source: `\` erzeugt einen Zeilenumbruch, ohne das Kommando abzuschicken
 
