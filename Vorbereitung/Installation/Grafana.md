@@ -1,6 +1,6 @@
 # Installation und Konfiguration von Grafana
 
-Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Grafana auf Windows 10.
+Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Grafana unter Windows 10.
 
 [<img src="https://grafana.com/static/assets/internal/grafana_logo-web-dark.svg" width="100">](https://grafana.com/)
 
