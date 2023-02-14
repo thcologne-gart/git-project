@@ -4,7 +4,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Node-
 
 [<img src="https://avatars.githubusercontent.com/u/5375661?s=200&v=4" width="100">](https://nodered.org/)
 
-:information_source: **Diese Anleitung wurde mit dem offiziellen Node-RED 1.3.5 Docker Container getestet.** Sollte es mit einem späteren build zu Problemen kommen, kann bei der Installation statt `latest` auch `1.3.5` eingegeben werden.
+<!--:information_source: **Diese Anleitung wurde mit dem offiziellen Node-RED 1.3.5 Docker Container getestet.** Sollte es mit einem späteren build zu Problemen kommen, kann bei der Installation statt `latest` auch `1.3.5` eingegeben werden.-->
 
 ### Vor der Installation
 * Docker Desktop muss installiert und gestartet sein
@@ -17,7 +17,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Node-
 
 ### Installation
 * Öffne die Eingabeaufforderung (cmd)
-* `docker run -it --name node-red -p 1880:1880 -v <local-folder>:/data nodered/node-red:latest` ausführen
+* `docker run -it --name node-red -p 1880:1880 -v <local-folder>:/data nodered/node-red:1.3.5` ausführen
 
 ### Konfiguration und Start
 * Per Browser mit Node-RED verbinden `http://<ip-address>:1880/`
