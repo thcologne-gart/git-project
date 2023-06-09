@@ -17,7 +17,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration von Node-
 
 ### Installation
 * Öffne die Eingabeaufforderung (cmd)
-* `docker run -it --name node-red -p 1880:1880 -v <local-folder>:/data nodered/node-red:1.3.5` ausführen
+* `docker run -it --name node-red -p 1880:1880 -v <local-folder>:/data nodered/node-red:3.0` ausführen
 
 ### Konfiguration und Start
 * Per Browser mit Node-RED verbinden `http://<ip-address>:1880/`
