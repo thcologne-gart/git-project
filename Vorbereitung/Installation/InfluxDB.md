@@ -32,7 +32,7 @@ Dieses Dokument dient als Anleitung zur Installation und Konfiguration der Influ
   * im Folgenden `<token>` genannt
 * Data --> Buckets --> ID des Buckets <bucket-name> mit einem Klick auf die ID kopieren
   * im Folgenden `<bucket-id>` genannt
-* In Docker Desktop bei dem influxDB Container auf `CLI` klicken
+* In Docker Desktop unter Containers, bei dem influxDB Container auf die drei Punkte `Show container actions` (in der Spalte Actions) und dann auf `Open in terminal` klicken
 * Folgende Eingaben nacheinander durchführen:
 
 ___1. Legt eine dauerhafte Konfiguration an, die den Token speichert und Schreibrechte gewährleistet:___
