@@ -6,10 +6,7 @@ In diesem Abschnitt des Repositorys findet ihr alle Informationen, die zur Vorbe
 * Der Ordner [Dateien/Pumpendaten](Dateien/Pumpendaten) enthält fiktive Pumpendateien, die zum Bearbeiten der vorbereitenden Aufgaben nötig sind.
 * Die [Linkliste](Linkliste.md) listet viele hilfreiche Seiten und Videos auf, um die nötigen Grundlagenkompetenzen zu erwerben oder aufzufrischen. Links zu Seiten und Videos, die bestimmte Themen erweitern oder vertiefen sowie zu den Websites der verwendeten Software sind ebenfalls aufgeführt.
 
-## Wo geht's los?
-Um die Vorbereitung auf die Projektarbeit zu beginnen, könnt ihr euch das Einführungsvideo erneut ansehen. Dieses wurde euch während der Vorlesung bereits gezeigt, steht euch allerdings weiterhin auf eurer Lernplattform sowie auf [YouTube](https://www.youtube.com/watch?v=zk_Bhm5ZzQU&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=1) zur Verfügung.
-
-### Zusammenfassung der Einleitung
+### Einleitung
 * Die Aufgaben zur Vorbereitung dienen dem nötigen Kompetenzerwerb, um die Projektarbeit erfolgreich absolvieren zu können
 * Die Bearbeitung der vorbereitenden Aufgaben wird nicht benotet oder überprüft
   * Die vermittelten Kompetenzen sind jedoch essenziell, um die Projektarbeit erfolgreich absolvieren zu können
