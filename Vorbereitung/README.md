@@ -3,15 +3,13 @@ In diesem Abschnitt des Repositorys findet ihr alle Informationen, die zur Vorbe
 
 ## Aufbau
 * Der Ordner [Aufgaben](Aufgaben) enthält die Aufgabenscripte zur Vorbereitung.
-* Der Ordner [Dateien](Dateien) enthält Dateien, die zum Bearbeiten der vorbereitenden Aufgaben und dem Folgen der Videos nötig sind.
-* Der Ordner [Installation](Installation) enthält Anleitungen und Hinweise zu Installation und Konfiguration einiger Softwareprodukte.
+* Der Ordner [Dateien/Pumpendaten](Dateien/Pumpendaten) enthält fiktive Pumpendateien, die zum Bearbeiten der vorbereitenden Aufgaben nötig sind.
 * Die [Linkliste](Linkliste.md) listet viele hilfreiche Seiten und Videos auf, um die nötigen Grundlagenkompetenzen zu erwerben oder aufzufrischen. Links zu Seiten und Videos, die bestimmte Themen erweitern oder vertiefen sowie zu den Websites der verwendeten Software sind ebenfalls aufgeführt.
-* [Videos.md](Videos.md) enthält wichtige Informationen zu den begleitenden Erklärvideos für die vorbereitenden Aufgaben.
 
 ## Wo geht's los?
 Um die Vorbereitung auf die Projektarbeit zu beginnen, könnt ihr euch das Einführungsvideo erneut ansehen. Dieses wurde euch während der Vorlesung bereits gezeigt, steht euch allerdings weiterhin auf eurer Lernplattform sowie auf [YouTube](https://www.youtube.com/watch?v=zk_Bhm5ZzQU&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=1) zur Verfügung.
 
-### Zusammenfassung des Videos
+### Zusammenfassung der Einleitung
 * Die Aufgaben zur Vorbereitung dienen dem nötigen Kompetenzerwerb, um die Projektarbeit erfolgreich absolvieren zu können
 * Die Bearbeitung der vorbereitenden Aufgaben wird nicht benotet oder überprüft
   * Die vermittelten Kompetenzen sind jedoch essenziell, um die Projektarbeit erfolgreich absolvieren zu können
@@ -21,7 +19,5 @@ Um die Vorbereitung auf die Projektarbeit zu beginnen, könnt ihr euch das Einf�
 * Dieses GitHub Repository enthält alle wichtigen Informationen, seien es Aufgaben, Videos, Links oder Erklärungen.
   * Bei Fragen oder Fehlern darf gerne der Issues Abschnitt genutzt werden.
 * Der Startpunkt ist [Aufgabe 1](Aufgaben/Aufgabe1.md). Hier wird die erste Aufgabe beschrieben und auf die nötigen Hilfsmittel verwiesen.
-* Grundsätzlich sind die Anleitungen und Erklärungen auf Windows 10 ausgelegt
-  * Einige, jedoch nicht alle Aspekte funktionieren grundsätzlich mit MacOS oder einer beliebigen Linux Distribution, eine gesonderte Anleitung gibt es hier jedoch nicht
-* Zur Bearbeitung der Aufgaben ist die Installation einiger Softwareprodukte notwendig
-  * Entsprechend werden Admin Rechte auf dem System benötigt
+* Zur Bearbeitung der Aufgaben wird eine Ubuntu VM bereitgestellt. Diese kann mit einem beliebigen VM Player gestartet werden, beispielsweise dem [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html.html)
+  * Nach Instllation des VMware Players muss über "Open a Virtual Machine" lediglich die "GIT 2024.vmx" Datei im **entpackten** Ordner ausgewählt werden.
