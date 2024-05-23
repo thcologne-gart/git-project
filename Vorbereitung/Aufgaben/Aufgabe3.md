@@ -3,9 +3,6 @@ In dieser Aufgabe werdet ihr mehrere Assets in einem dynamischen Dashboard abbil
 
 ## Grundlagen
 * Ihr benötigt den [OPC UA Server aus Aufgabe 1](Aufgabe1.md) und das [einfache Daschboard aus Aufgabe 2](Aufgabe2.md)
-* Grundsätzlich ist die [Videos.md](../Videos.md) Datei zu beachten
-* Folgende Videos stehen in direktem Zusammenhang mit der Aufgabe:
-  * E10: [Grafana - Dynamische Panels und Dashboards auf Grundlage von Variablen erstellen](https://www.youtube.com/watch?v=biAnjcLIkxc&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=11)
   
 ## Aufgabenstellung
 * Erstelle einen zweiten OPC UA Server mit anderen Daten.
