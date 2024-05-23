@@ -2,9 +2,6 @@
 In diesem Abschnitt des Repositorys findet ihr alle Informationen zu der Projektarbeit im Labor.
 
 ## Inhalt der Projektarbeit
-Die nötigen Informationen zu dem Projekt wurden euch bereits im Einführungsvideo mitgegeben. Dieses wurde euch während der Vorlesung gezeigt und steht euch darüber hinaus auf eurer Lernplattform sowie auf [YouTube](https://www.youtube.com/watch?v=zk_Bhm5ZzQU&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=1) zur Verfügung.
-
-### Zusammenfassung des Videos
 * Die vorbereitenden Aufgaben können nicht 1:1 auf das Projekt übertragen werden
 * Es stehen drei unterschiedliche Pumpen zur Verfügung
   * Diese unterscheiden sich in Bauform, Verwendungszweck und (teilw.) Kommunikationstechnologie
