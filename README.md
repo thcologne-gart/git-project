@@ -20,7 +20,7 @@ Dieses GitHub Repository gibt euch Hilfsmittel an die Hand, um im Rahmen des Pro
 
 :information_source: Die Vorbereitung benötigt aufgrund des Formats einen (vermutlich) ungewohnt hohen Zeitaufwand. Erledigt diese möglichst zeitnah, um ausreichend Gelegenheit zum Austausch und für Rückfragen zu haben.
 
-:information_source: Der Startpunkt für eure Vorbereitung sollte das erste Erklärdokument im Ordner "Vorbereitung" sein.
+:information_source: Der Startpunkt für eure Vorbereitung ist der Ordner "Vorbereitung".
 
 ## Aufbau
 * [Projektarbeit](Projektarbeit.md) enthält detailliertere Informationen zu der Projektarbeit im Labor
