@@ -23,6 +23,7 @@ Außerdem wird folgende Softwareausstattung vorausgesetzt/empfohlen:
 
 ## Begleitende Videos für die vorbereitenden Aufgaben
 :information_source: Diese Auflistung ist noch nicht final, wird aber in den kommenden Tagen finalisiert!
+
 Die folgenden Videos bauen aufeinander auf und sollten während der Bearbeitung der vorbereitenden Aufgaben in der entsprechenden Reihenfolge angeschaut werden.
 * [Playlist mit allen Videos](https://www.youtube.com/playlist?list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy)
 * E1: [Node-RED - JavaScript Objekt aus XML Datei erzeugen](https://www.youtube.com/watch?v=Lc5fmeFqGl4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=2)
