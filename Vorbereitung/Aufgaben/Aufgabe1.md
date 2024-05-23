@@ -2,6 +2,7 @@
 In dieser Aufgabe werdet ihr einen OPC UA Server in Node-Red anlegen und mit statischen sowie dynamischen Daten befüllen.
 
 ## Grundlagen
+* Die [Anleitungen](../Anleitungen)
 * Die Ubuntu VM wird benötigt
   * Das Passwort zum Nutzer `GIT` lautet `git`
 * [UaExpert](https://www.unified-automation.com/de/produkte/entwicklerwerkzeuge/uaexpert.html) ist optional auf der Host-Maschine zu installieren
