@@ -11,8 +11,6 @@ In diesem Abschnitt des Repositorys findet ihr alle Informationen, die zur Vorbe
 * Die Bearbeitung der vorbereitenden Aufgaben wird nicht benotet oder überprüft
   * Die vermittelten Kompetenzen sind jedoch essenziell, um die Projektarbeit erfolgreich absolvieren zu können
 * Es kann notwendig sein, bestimmte Grundlagenkompetenzen im Selbststudium erwerben zu müssen, bevor die Aufgaben erfolgreich bearbeitet werden können
-* Die bereitgestellten Videos dienen als Hilfsmittel zur Bearbeitung der Aufgaben und decken bestimmte Kompetenzen ab. Sie enthalten keine Musterlösung und in jeder Aufgabe wird eine Transferleistung erwartet.
-  * In anderen Worten: Es ist nicht möglich mit einer 1:1 Abbildung der Videos und dem Auslassen der Aufgaben die Projektarbeit erfolgreich zu absolvieren.
 * Dieses GitHub Repository enthält alle wichtigen Informationen, seien es Aufgaben, Videos, Links oder Erklärungen.
   * Bei Fragen oder Fehlern darf gerne der Issues Abschnitt genutzt werden.
 * Der Startpunkt ist [Aufgabe 1](Aufgaben/Aufgabe1.md). Hier wird die erste Aufgabe beschrieben und auf die nötigen Hilfsmittel verwiesen.
