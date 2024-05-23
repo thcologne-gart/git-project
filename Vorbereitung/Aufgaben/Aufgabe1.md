@@ -7,9 +7,6 @@ In dieser Aufgabe werdet ihr einen OPC UA Server in Node-Red anlegen und mit sta
 * [UaExpert](https://www.unified-automation.com/de/produkte/entwicklerwerkzeuge/uaexpert.html) ist optional auf der Host-Maschine zu installieren
   * Hier ist eine kostenlose Registrierung bei Unified Automation notwendig
 * Die Daten einer fiktiven [Pumpe](../Dateien/Pumpendaten) werden benötigt
-* Grundsätzlich ist die [Videos.md](../Videos.md) Datei zu beachten
-* Folgende Videos stehen in direktem Zusammenhang mit der Aufgabe:
-  * E1: [Node-RED - JavaScript Objekt aus XML Datei erzeugen](https://www.youtube.com/watch?v=Lc5fmeFqGl4&list=PLzbl7wFtWqTR72ODjOUj5aEGsa4TxXYhy&index=2)
   
 ## Aufgabenstellung
 * Richte anhand der bereitgestellten Daten einen OPC UA Server für die *Master Pump 420* ein.
