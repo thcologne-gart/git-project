@@ -22,5 +22,5 @@ Um die Vorbereitung auf die Projektarbeit zu beginnen, könnt ihr euch das Einf�
 * Zur Bearbeitung der Aufgaben wird eine Ubuntu VM bereitgestellt. Diese kann mit einem beliebigen VM Player gestartet werden, beispielsweise dem [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html.html)
   * Nach Instllation des VMware Players muss über "Open a Virtual Machine" lediglich die "GIT 2024.vmx" Datei im **entpackten** Ordner ausgewählt werden.
   * Das Kennwort des Nutzers `GIT` lautet `git`.
-  * Alle Softwarekomponenten werden automatisch gestartet.
+  * Alle Softwarekomponenten werden automatisch gestartet, das dauert jedoch ein paar Minuten.
   * Es kann notwendig sein die beiden Websites zu aktualisieren, damit alles korrekt dargestellt wird.
