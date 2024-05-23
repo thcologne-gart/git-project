@@ -16,3 +16,4 @@ Die Dashboards können frei kofnigueriert werden und mit Variablen versehen werd
 ## Weitere Hinweise
 * Über den Menüpunkt `Explore` können die Server unabhängig von einem Dashboard erkundet werden.
 * Die Dashboards können im JSON Format exportiert werden, um Backups zu erstellen oder sie zu teilen. 
+* Sollte ein Kennwort abgefragt werden, ist der Nutzer `admin` und das Kennwort ebenfalls `admin`.
