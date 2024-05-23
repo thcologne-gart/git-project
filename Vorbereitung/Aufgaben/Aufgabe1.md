@@ -3,7 +3,7 @@ In dieser Aufgabe werdet ihr einen OPC UA Server in Node-Red anlegen und mit sta
 
 ## Grundlagen
 * Die Ubuntu VM wird benötigt
-  * Das Passwort zum Nutzer `Git` lautet `git`
+  * Das Passwort zum Nutzer `GIT` lautet `git`
 * [UaExpert](https://www.unified-automation.com/de/produkte/entwicklerwerkzeuge/uaexpert.html) ist optional auf der Host-Maschine zu installieren
   * Hier ist eine kostenlose Registrierung bei Unified Automation notwendig
 * Die Daten einer fiktiven [Pumpe](../Dateien/Pumpendaten) werden benötigt
