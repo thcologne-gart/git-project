@@ -28,6 +28,6 @@ In diesem Abschnitt des Repositorys findet ihr alle Informationen zu der Projekt
 * Q: Wo findet die Projektarbeit statt?
   * A: Die Projektarbeit findet im Labor für Regelungstechnik und Gebäudeautomation an der Technischen Hochschule Köln statt.
 * Q: Wie kann ich mich auf die Projektarbeit vorbereiten?
-  * A: Der Ordner [Vorbereitung](Vorbereitung) enthält alle wichtigen Informationen. Außerdem kann das Studium der verfügbaren Pumpendaten helfen.
+  * A: Der Ordner [Vorbereitung](Vorbereitung) enthält alle wichtigen Informationen.
 * Q: Welche Hilfsmittel sind während der Projektarbeit erlaubt?
   * A: Ihr dürft alle Ressourcen nutzen, die euch zur Verfügung stehen. Angefangen bei handgeschriebenen Notizen bis hin zu Stack Overflow. Den Code oder das Script einer anderen Gruppe zu kopieren ist selbstverständlich nicht erlaubt!
