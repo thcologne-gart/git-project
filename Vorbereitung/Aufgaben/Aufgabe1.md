@@ -1,4 +1,4 @@
-# Aufgabe 1 - Node-RED, OPC UA
+# Aufgabe 1 - Node-Red, OPC UA
 In dieser Aufgabe werdet ihr einen OPC UA Server in Node-Red anlegen und mit statischen sowie dynamischen Daten befüllen.
 
 ## Grundlagen
