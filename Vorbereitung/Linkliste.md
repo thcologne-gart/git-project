@@ -50,9 +50,6 @@ Hier findet ihr Links zu Seiten und Videos, die euch beim Erwerb der nötigen Gr
 
 ## Verwendete Software und Pakete
 * [Grafana](https://grafana.com/)
-* [InfluxDB](https://www.influxdata.com/)
-* [nodeJS](https://nodejs.org/en/)
-* [NodeOPCUA](https://node-opcua.github.io/)
 * [Node-RED](https://nodered.org/)
 * [node-red-contrib-opcua](https://flows.nodered.org/node/node-red-contrib-opcua/)
 * [Ubuntu](https://ubuntu.com/)
