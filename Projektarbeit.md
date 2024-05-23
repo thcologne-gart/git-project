@@ -6,15 +6,14 @@ Die nötigen Informationen zu dem Projekt wurden euch bereits im Einführungsvid
 
 ### Zusammenfassung des Videos
 * Die vorbereitenden Aufgaben können nicht 1:1 auf das Projekt übertragen werden
-* Es stehen sechs unterschiedliche Pumpen zur Verfügung
+* Es stehen drei unterschiedliche Pumpen zur Verfügung
   * Diese unterscheiden sich in Bauform, Verwendungszweck und (teilw.) Kommunikationstechnologie
 * Es erfolgt eine Gruppeneinteilung und jeder Gruppe wird eine Pumpe zugewiesen
-  * Manche Pumpen erfordern ein erweitertes Verständnis von Modbus RTU oder Serial RS-232
+  * Manche Pumpen erfordern ein erweitertes Verständnis von Modbus RTU
   * Die verfügbaren Pumpendaten stehen euch auf eurer Lernplattform zur Verfügung
 * Ein vorgegebenes typenbasiertes Informationsmodell muss interpretiert sowie implementiert werden
 * Jede Gruppe soll bestimmte Daten in die Cloud hochladen und ein dynamisches Dashboard erstellen
 * Die benötigte Software ist bereits installiert und konfiguriert
-* Datenbank sowie Monitoring Anwendung liegen außerhalb der Hochschule
 * Der genaue Versuchsaufbau wird erst während der Projektarbeit erklärt
 * Kommunikation innerhalb der Gruppe sowie über Gruppengrenzen hinweg wird notwendig sein
 
@@ -28,9 +27,9 @@ Die nötigen Informationen zu dem Projekt wurden euch bereits im Einführungsvid
 * Q: Wird die Projektarbeit bewertet?
   * A: Ja.
 * Q: Was *genau* wird bei der Abgabe erwartet?
-  * A: Ein dynamisches Dashboard auf Grundlage der Pumpendaten im Feld.
+  * A: Ein Kurzvortrag zu den behandelten Themen und ein dynamisches Dashboard auf Grundlage der Pumpendaten im Feld.
 * Q: Wo findet die Projektarbeit statt?
-  * A: Im Regelbetrieb findet die Projektarbeit im Labor für Regelungstechnik und Gebäudeautomation an der Technischen Hochschule Köln statt. Aufgrund der COVID-19 Pandemie findet die Projektarbeit 2021 Online über Zoom statt. Die Zugangsdaten erhaltet ihr auf eurer Lernplattform.
+  * A: Die Projektarbeit findet im Labor für Regelungstechnik und Gebäudeautomation an der Technischen Hochschule Köln statt.
 * Q: Wie kann ich mich auf die Projektarbeit vorbereiten?
   * A: Der Ordner [Vorbereitung](Vorbereitung) enthält alle wichtigen Informationen. Außerdem kann das Studium der verfügbaren Pumpendaten helfen.
 * Q: Welche Hilfsmittel sind während der Projektarbeit erlaubt?
